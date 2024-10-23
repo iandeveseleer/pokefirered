@@ -3,6 +3,14 @@
 GAME_VERSION  ?= FIRERED
 GAME_REVISION ?= 0
 GAME_LANGUAGE ?= ENGLISH
+# Available : ENGLISH, FRENCH (actually only species_names and items)
+INTL ?= FRENCH
+
+$(info GAME_VERSION is set to: $(GAME_VERSION))
+$(info GAME_REVISION is set to: $(GAME_REVISION))
+$(info GAME_LANGUAGE is set to: $(GAME_LANGUAGE))
+$(info INTL is set to: $(INTL))
+
 
 # Builds the ROM using a modern compiler
 MODERN        ?= 0

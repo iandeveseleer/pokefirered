@@ -1,0 +1,8 @@
+{{ doNotModifyHeader }}
+
+const u8 gSpeciesNames[][POKEMON_NAME_LENGTH + 1] = {
+    [SPECIES_NONE] = _(""),
+    {% for species in names %}
+    [SPECIES_{{ species.speciesId }}] = _("{{ species.french }}"),
+    {% endfor %}
+};

@@ -1,0 +1,2064 @@
+{
+  "names": [
+    {
+      "speciesId": "NONE",
+      "english": "??????????",
+      "french": "??????????"
+    },
+    {
+      "speciesId": "BULBASAUR",
+      "english": "BULBASAUR",
+      "french": "Bulbizarre"
+    },
+    {
+      "speciesId": "IVYSAUR",
+      "english": "IVYSAUR",
+      "french": "Herbizarre"
+    },
+    {
+      "speciesId": "VENUSAUR",
+      "english": "VENUSAUR",
+      "french": "Florizarre"
+    },
+    {
+      "speciesId": "CHARMANDER",
+      "english": "CHARMANDER",
+      "french": "Salamèche"
+    },
+    {
+      "speciesId": "CHARMELEON",
+      "english": "CHARMELEON",
+      "french": "Reptincel"
+    },
+    {
+      "speciesId": "CHARIZARD",
+      "english": "CHARIZARD",
+      "french": "Dracaufeu"
+    },
+    {
+      "speciesId": "SQUIRTLE",
+      "english": "SQUIRTLE",
+      "french": "Carapuce"
+    },
+    {
+      "speciesId": "WARTORTLE",
+      "english": "WARTORTLE",
+      "french": "Carabaffe"
+    },
+    {
+      "speciesId": "BLASTOISE",
+      "english": "BLASTOISE",
+      "french": "Tortank"
+    },
+    {
+      "speciesId": "CATERPIE",
+      "english": "CATERPIE",
+      "french": "Chenipan"
+    },
+    {
+      "speciesId": "METAPOD",
+      "english": "METAPOD",
+      "french": "Chrysacier"
+    },
+    {
+      "speciesId": "BUTTERFREE",
+      "english": "BUTTERFREE",
+      "french": "Papillusion"
+    },
+    {
+      "speciesId": "WEEDLE",
+      "english": "WEEDLE",
+      "french": "Aspicot"
+    },
+    {
+      "speciesId": "KAKUNA",
+      "english": "KAKUNA",
+      "french": "Coconfort"
+    },
+    {
+      "speciesId": "BEEDRILL",
+      "english": "BEEDRILL",
+      "french": "Dardargnan"
+    },
+    {
+      "speciesId": "PIDGEY",
+      "english": "PIDGEY",
+      "french": "Roucool"
+    },
+    {
+      "speciesId": "PIDGEOTTO",
+      "english": "PIDGEOTTO",
+      "french": "Roucoups"
+    },
+    {
+      "speciesId": "PIDGEOT",
+      "english": "PIDGEOT",
+      "french": "Roucarnage"
+    },
+    {
+      "speciesId": "RATTATA",
+      "english": "RATTATA",
+      "french": "Rattate"
+    },
+    {
+      "speciesId": "RATICATE",
+      "english": "RATICATE",
+      "french": "Rattatac"
+    },
+    {
+      "speciesId": "SPEAROW",
+      "english": "SPEAROW",
+      "french": "Piafabec"
+    },
+    {
+      "speciesId": "FEAROW",
+      "english": "FEAROW",
+      "french": "Rapasdepic"
+    },
+    {
+      "speciesId": "EKANS",
+      "english": "EKANS",
+      "french": "Abo"
+    },
+    {
+      "speciesId": "ARBOK",
+      "english": "ARBOK",
+      "french": "Arbok"
+    },
+    {
+      "speciesId": "PIKACHU",
+      "english": "PIKACHU",
+      "french": "Pikachu"
+    },
+    {
+      "speciesId": "RAICHU",
+      "english": "RAICHU",
+      "french": "Raichu"
+    },
+    {
+      "speciesId": "SANDSHREW",
+      "english": "SANDSHREW",
+      "french": "Sabelette"
+    },
+    {
+      "speciesId": "SANDSLASH",
+      "english": "SANDSLASH",
+      "french": "Sablaireau"
+    },
+    {
+      "speciesId": "NIDORAN_F",
+      "english": "NIDORAN\u2640",
+      "french": "Nidoran\u2640"
+    },
+    {
+      "speciesId": "NIDORINA",
+      "english": "NIDORINA",
+      "french": "Nidorina"
+    },
+    {
+      "speciesId": "NIDOQUEEN",
+      "english": "NIDOQUEEN",
+      "french": "Nidoqueen"
+    },
+    {
+      "speciesId": "NIDORAN_M",
+      "english": "NIDORAN\u2642",
+      "french": "Nidoran\u2642"
+    },
+    {
+      "speciesId": "NIDORINO",
+      "english": "NIDORINO",
+      "french": "Nidorino"
+    },
+    {
+      "speciesId": "NIDOKING",
+      "english": "NIDOKING",
+      "french": "Nidoking"
+    },
+    {
+      "speciesId": "CLEFAIRY",
+      "english": "CLEFAIRY",
+      "french": "Mélofée"
+    },
+    {
+      "speciesId": "CLEFABLE",
+      "english": "CLEFABLE",
+      "french": "Mélodelfe"
+    },
+    {
+      "speciesId": "VULPIX",
+      "english": "VULPIX",
+      "french": "Goupix"
+    },
+    {
+      "speciesId": "NINETALES",
+      "english": "NINETALES",
+      "french": "Feunard"
+    },
+    {
+      "speciesId": "JIGGLYPUFF",
+      "english": "JIGGLYPUFF",
+      "french": "Rondoudou"
+    },
+    {
+      "speciesId": "WIGGLYTUFF",
+      "english": "WIGGLYTUFF",
+      "french": "Grodoudou"
+    },
+    {
+      "speciesId": "ZUBAT",
+      "english": "ZUBAT",
+      "french": "Nosferapti"
+    },
+    {
+      "speciesId": "GOLBAT",
+      "english": "GOLBAT",
+      "french": "Nosferalto"
+    },
+    {
+      "speciesId": "ODDISH",
+      "english": "ODDISH",
+      "french": "Mystherbe"
+    },
+    {
+      "speciesId": "GLOOM",
+      "english": "GLOOM",
+      "french": "Ortide"
+    },
+    {
+      "speciesId": "VILEPLUME",
+      "english": "VILEPLUME",
+      "french": "Rafflesia"
+    },
+    {
+      "speciesId": "PARAS",
+      "english": "PARAS",
+      "french": "Paras"
+    },
+    {
+      "speciesId": "PARASECT",
+      "english": "PARASECT",
+      "french": "Parasect"
+    },
+    {
+      "speciesId": "VENONAT",
+      "english": "VENONAT",
+      "french": "Mimitoss"
+    },
+    {
+      "speciesId": "VENOMOTH",
+      "english": "VENOMOTH",
+      "french": "Aéromite"
+    },
+    {
+      "speciesId": "DIGLETT",
+      "english": "DIGLETT",
+      "french": "Taupiqueur"
+    },
+    {
+      "speciesId": "DUGTRIO",
+      "english": "DUGTRIO",
+      "french": "Triopikeur"
+    },
+    {
+      "speciesId": "MEOWTH",
+      "english": "MEOWTH",
+      "french": "Miaouss"
+    },
+    {
+      "speciesId": "PERSIAN",
+      "english": "PERSIAN",
+      "french": "Persian"
+    },
+    {
+      "speciesId": "PSYDUCK",
+      "english": "PSYDUCK",
+      "french": "Psykokwak"
+    },
+    {
+      "speciesId": "GOLDUCK",
+      "english": "GOLDUCK",
+      "french": "Akwakwak"
+    },
+    {
+      "speciesId": "MANKEY",
+      "english": "MANKEY",
+      "french": "Férosinge"
+    },
+    {
+      "speciesId": "PRIMEAPE",
+      "english": "PRIMEAPE",
+      "french": "Colossinge"
+    },
+    {
+      "speciesId": "GROWLITHE",
+      "english": "GROWLITHE",
+      "french": "Caninos"
+    },
+    {
+      "speciesId": "ARCANINE",
+      "english": "ARCANINE",
+      "french": "Arcanin"
+    },
+    {
+      "speciesId": "POLIWAG",
+      "english": "POLIWAG",
+      "french": "Ptitard"
+    },
+    {
+      "speciesId": "POLIWHIRL",
+      "english": "POLIWHIRL",
+      "french": "Têtarte"
+    },
+    {
+      "speciesId": "POLIWRATH",
+      "english": "POLIWRATH",
+      "french": "Tartard"
+    },
+    {
+      "speciesId": "ABRA",
+      "english": "ABRA",
+      "french": "Abra"
+    },
+    {
+      "speciesId": "KADABRA",
+      "english": "KADABRA",
+      "french": "Kadabra"
+    },
+    {
+      "speciesId": "ALAKAZAM",
+      "english": "ALAKAZAM",
+      "french": "Alakazam"
+    },
+    {
+      "speciesId": "MACHOP",
+      "english": "MACHOP",
+      "french": "Machoc"
+    },
+    {
+      "speciesId": "MACHOKE",
+      "english": "MACHOKE",
+      "french": "Machopeur"
+    },
+    {
+      "speciesId": "MACHAMP",
+      "english": "MACHAMP",
+      "french": "Mackogneur"
+    },
+    {
+      "speciesId": "BELLSPROUT",
+      "english": "BELLSPROUT",
+      "french": "Chétiflor"
+    },
+    {
+      "speciesId": "WEEPINBELL",
+      "english": "WEEPINBELL",
+      "french": "Boustiflor"
+    },
+    {
+      "speciesId": "VICTREEBEL",
+      "english": "VICTREEBEL",
+      "french": "Empiflor"
+    },
+    {
+      "speciesId": "TENTACOOL",
+      "english": "TENTACOOL",
+      "french": "Tentacool"
+    },
+    {
+      "speciesId": "TENTACRUEL",
+      "english": "TENTACRUEL",
+      "french": "Tentacruel"
+    },
+    {
+      "speciesId": "GEODUDE",
+      "english": "GEODUDE",
+      "french": "Racaillou"
+    },
+    {
+      "speciesId": "GRAVELER",
+      "english": "GRAVELER",
+      "french": "Gravalanch"
+    },
+    {
+      "speciesId": "GOLEM",
+      "english": "GOLEM",
+      "french": "Grolem"
+    },
+    {
+      "speciesId": "PONYTA",
+      "english": "PONYTA",
+      "french": "Ponyta"
+    },
+    {
+      "speciesId": "RAPIDASH",
+      "english": "RAPIDASH",
+      "french": "Galopa"
+    },
+    {
+      "speciesId": "SLOWPOKE",
+      "english": "SLOWPOKE",
+      "french": "Ramoloss"
+    },
+    {
+      "speciesId": "SLOWBRO",
+      "english": "SLOWBRO",
+      "french": "Flagadoss"
+    },
+    {
+      "speciesId": "MAGNEMITE",
+      "english": "MAGNEMITE",
+      "french": "Magnéti"
+    },
+    {
+      "speciesId": "MAGNETON",
+      "english": "MAGNETON",
+      "french": "Magnéton"
+    },
+    {
+      "speciesId": "FARFETCHD",
+      "english": "FARFETCH'D",
+      "french": "Canarticho"
+    },
+    {
+      "speciesId": "DODUO",
+      "english": "DODUO",
+      "french": "Doduo"
+    },
+    {
+      "speciesId": "DODRIO",
+      "english": "DODRIO",
+      "french": "Dodrio"
+    },
+    {
+      "speciesId": "SEEL",
+      "english": "SEEL",
+      "french": "Otaria"
+    },
+    {
+      "speciesId": "DEWGONG",
+      "english": "DEWGONG",
+      "french": "Lamantine"
+    },
+    {
+      "speciesId": "GRIMER",
+      "english": "GRIMER",
+      "french": "Tadmorv"
+    },
+    {
+      "speciesId": "MUK",
+      "english": "MUK",
+      "french": "Grotadmorv"
+    },
+    {
+      "speciesId": "SHELLDER",
+      "english": "SHELLDER",
+      "french": "Kokiyas"
+    },
+    {
+      "speciesId": "CLOYSTER",
+      "english": "CLOYSTER",
+      "french": "Crustabri"
+    },
+    {
+      "speciesId": "GASTLY",
+      "english": "GASTLY",
+      "french": "Fantominus"
+    },
+    {
+      "speciesId": "HAUNTER",
+      "english": "HAUNTER",
+      "french": "Spectrum"
+    },
+    {
+      "speciesId": "GENGAR",
+      "english": "GENGAR",
+      "french": "Ectoplasma"
+    },
+    {
+      "speciesId": "ONIX",
+      "english": "ONIX",
+      "french": "Onix"
+    },
+    {
+      "speciesId": "DROWZEE",
+      "english": "DROWZEE",
+      "french": "Soporifik"
+    },
+    {
+      "speciesId": "HYPNO",
+      "english": "HYPNO",
+      "french": "Hypnomade"
+    },
+    {
+      "speciesId": "KRABBY",
+      "english": "KRABBY",
+      "french": "Krabby"
+    },
+    {
+      "speciesId": "KINGLER",
+      "english": "KINGLER",
+      "french": "Krabboss"
+    },
+    {
+      "speciesId": "VOLTORB",
+      "english": "VOLTORB",
+      "french": "Voltorbe"
+    },
+    {
+      "speciesId": "ELECTRODE",
+      "english": "ELECTRODE",
+      "french": "Électrode"
+    },
+    {
+      "speciesId": "EXEGGCUTE",
+      "english": "EXEGGCUTE",
+      "french": "Noeunoeuf"
+    },
+    {
+      "speciesId": "EXEGGUTOR",
+      "english": "EXEGGUTOR",
+      "french": "Noadkoko"
+    },
+    {
+      "speciesId": "CUBONE",
+      "english": "CUBONE",
+      "french": "CUBONE"
+    },
+    {
+      "speciesId": "MAROWAK",
+      "english": "MAROWAK",
+      "french": "Ossatueur"
+    },
+    {
+      "speciesId": "HITMONLEE",
+      "english": "HITMONLEE",
+      "french": "Kicklee"
+    },
+    {
+      "speciesId": "HITMONCHAN",
+      "english": "HITMONCHAN",
+      "french": "Tygnon"
+    },
+    {
+      "speciesId": "LICKITUNG",
+      "english": "LICKITUNG",
+      "french": "Excelangue"
+    },
+    {
+      "speciesId": "KOFFING",
+      "english": "KOFFING",
+      "french": "Smogo"
+    },
+    {
+      "speciesId": "WEEZING",
+      "english": "WEEZING",
+      "french": "Smogogo"
+    },
+    {
+      "speciesId": "RHYHORN",
+      "english": "RHYHORN",
+      "french": "Rhinocorne"
+    },
+    {
+      "speciesId": "RHYDON",
+      "english": "RHYDON",
+      "french": "Rhinoféros"
+    },
+    {
+      "speciesId": "CHANSEY",
+      "english": "CHANSEY",
+      "french": "Leveinard"
+    },
+    {
+      "speciesId": "TANGELA",
+      "english": "TANGELA",
+      "french": "Saquedeneu"
+    },
+    {
+      "speciesId": "KANGASKHAN",
+      "english": "KANGASKHAN",
+      "french": "Kangourex"
+    },
+    {
+      "speciesId": "HORSEA",
+      "english": "HORSEA",
+      "french": "Hypotrempe"
+    },
+    {
+      "speciesId": "SEADRA",
+      "english": "SEADRA",
+      "french": "Hypocéan"
+    },
+    {
+      "speciesId": "GOLDEEN",
+      "english": "GOLDEEN",
+      "french": "Poissirène"
+    },
+    {
+      "speciesId": "SEAKING",
+      "english": "SEAKING",
+      "french": "Poissoroy"
+    },
+    {
+      "speciesId": "STARYU",
+      "english": "STARYU",
+      "french": "Stari"
+    },
+    {
+      "speciesId": "STARMIE",
+      "english": "STARMIE",
+      "french": "Staross"
+    },
+    {
+      "speciesId": "MR_MIME",
+      "english": "MR. MIME",
+      "french": "M. Mime "
+    },
+    {
+      "speciesId": "SCYTHER",
+      "english": "SCYTHER",
+      "french": "Insécateur"
+    },
+    {
+      "speciesId": "JYNX",
+      "english": "JYNX",
+      "french": "Lippoutou"
+    },
+    {
+      "speciesId": "ELECTABUZZ",
+      "english": "ELECTABUZZ",
+      "french": "Élektek"
+    },
+    {
+      "speciesId": "MAGMAR",
+      "english": "MAGMAR",
+      "french": "Magmar"
+    },
+    {
+      "speciesId": "PINSIR",
+      "english": "PINSIR",
+      "french": "Scarabrute"
+    },
+    {
+      "speciesId": "TAUROS",
+      "english": "TAUROS",
+      "french": "Tauros"
+    },
+    {
+      "speciesId": "MAGIKARP",
+      "english": "MAGIKARP",
+      "french": "Magicarpe"
+    },
+    {
+      "speciesId": "GYARADOS",
+      "english": "GYARADOS",
+      "french": "Léviator"
+    },
+    {
+      "speciesId": "LAPRAS",
+      "english": "LAPRAS",
+      "french": "Lokhlass"
+    },
+    {
+      "speciesId": "DITTO",
+      "english": "DITTO",
+      "french": "Métamorph"
+    },
+    {
+      "speciesId": "EEVEE",
+      "english": "EEVEE",
+      "french": "Évoli"
+    },
+    {
+      "speciesId": "VAPOREON",
+      "english": "VAPOREON",
+      "french": "Aquali"
+    },
+    {
+      "speciesId": "JOLTEON",
+      "english": "JOLTEON",
+      "french": "Voltali"
+    },
+    {
+      "speciesId": "FLAREON",
+      "english": "FLAREON",
+      "french": "Pyroli"
+    },
+    {
+      "speciesId": "PORYGON",
+      "english": "PORYGON",
+      "french": "Porygon"
+    },
+    {
+      "speciesId": "OMANYTE",
+      "english": "OMANYTE",
+      "french": "Amonita"
+    },
+    {
+      "speciesId": "OMASTAR",
+      "english": "OMASTAR",
+      "french": "Amonistar"
+    },
+    {
+      "speciesId": "KABUTO",
+      "english": "KABUTO",
+      "french": "Kabuto"
+    },
+    {
+      "speciesId": "KABUTOPS",
+      "english": "KABUTOPS",
+      "french": "Kabutops"
+    },
+    {
+      "speciesId": "AERODACTYL",
+      "english": "AERODACTYL",
+      "french": "Ptéra"
+    },
+    {
+      "speciesId": "SNORLAX",
+      "english": "SNORLAX",
+      "french": "Ronflex"
+    },
+    {
+      "speciesId": "ARTICUNO",
+      "english": "ARTICUNO",
+      "french": "Artikodin"
+    },
+    {
+      "speciesId": "ZAPDOS",
+      "english": "ZAPDOS",
+      "french": "Électhor"
+    },
+    {
+      "speciesId": "MOLTRES",
+      "english": "MOLTRES",
+      "french": "Sulfura"
+    },
+    {
+      "speciesId": "DRATINI",
+      "english": "DRATINI",
+      "french": "Minidraco"
+    },
+    {
+      "speciesId": "DRAGONAIR",
+      "english": "DRAGONAIR",
+      "french": "Draco"
+    },
+    {
+      "speciesId": "DRAGONITE",
+      "english": "DRAGONITE",
+      "french": "Dracolosse"
+    },
+    {
+      "speciesId": "MEWTWO",
+      "english": "MEWTWO",
+      "french": "Mewtwo"
+    },
+    {
+      "speciesId": "MEW",
+      "english": "MEW",
+      "french": "Mew"
+    },
+    {
+      "speciesId": "CHIKORITA",
+      "english": "CHIKORITA",
+      "french": "CHIKORITA"
+    },
+    {
+      "speciesId": "BAYLEEF",
+      "english": "BAYLEEF",
+      "french": "BAYLEEF"
+    },
+    {
+      "speciesId": "MEGANIUM",
+      "english": "MEGANIUM",
+      "french": "MEGANIUM"
+    },
+    {
+      "speciesId": "CYNDAQUIL",
+      "english": "CYNDAQUIL",
+      "french": "CYNDAQUIL"
+    },
+    {
+      "speciesId": "QUILAVA",
+      "english": "QUILAVA",
+      "french": "QUILAVA"
+    },
+    {
+      "speciesId": "TYPHLOSION",
+      "english": "TYPHLOSION",
+      "french": "TYPHLOSION"
+    },
+    {
+      "speciesId": "TOTODILE",
+      "english": "TOTODILE",
+      "french": "TOTODILE"
+    },
+    {
+      "speciesId": "CROCONAW",
+      "english": "CROCONAW",
+      "french": "CROCONAW"
+    },
+    {
+      "speciesId": "FERALIGATR",
+      "english": "FERALIGATR",
+      "french": "FERALIGATR"
+    },
+    {
+      "speciesId": "SENTRET",
+      "english": "SENTRET",
+      "french": "SENTRET"
+    },
+    {
+      "speciesId": "FURRET",
+      "english": "FURRET",
+      "french": "FURRET"
+    },
+    {
+      "speciesId": "HOOTHOOT",
+      "english": "HOOTHOOT",
+      "french": "HOOTHOOT"
+    },
+    {
+      "speciesId": "NOCTOWL",
+      "english": "NOCTOWL",
+      "french": "NOCTOWL"
+    },
+    {
+      "speciesId": "LEDYBA",
+      "english": "LEDYBA",
+      "french": "LEDYBA"
+    },
+    {
+      "speciesId": "LEDIAN",
+      "english": "LEDIAN",
+      "french": "LEDIAN"
+    },
+    {
+      "speciesId": "SPINARAK",
+      "english": "SPINARAK",
+      "french": "SPINARAK"
+    },
+    {
+      "speciesId": "ARIADOS",
+      "english": "ARIADOS",
+      "french": "ARIADOS"
+    },
+    {
+      "speciesId": "CROBAT",
+      "english": "CROBAT",
+      "french": "CROBAT"
+    },
+    {
+      "speciesId": "CHINCHOU",
+      "english": "CHINCHOU",
+      "french": "CHINCHOU"
+    },
+    {
+      "speciesId": "LANTURN",
+      "english": "LANTURN",
+      "french": "LANTURN"
+    },
+    {
+      "speciesId": "PICHU",
+      "english": "PICHU",
+      "french": "PICHU"
+    },
+    {
+      "speciesId": "CLEFFA",
+      "english": "CLEFFA",
+      "french": "CLEFFA"
+    },
+    {
+      "speciesId": "IGGLYBUFF",
+      "english": "IGGLYBUFF",
+      "french": "IGGLYBUFF"
+    },
+    {
+      "speciesId": "TOGEPI",
+      "english": "TOGEPI",
+      "french": "TOGEPI"
+    },
+    {
+      "speciesId": "TOGETIC",
+      "english": "TOGETIC",
+      "french": "TOGETIC"
+    },
+    {
+      "speciesId": "NATU",
+      "english": "NATU",
+      "french": "NATU"
+    },
+    {
+      "speciesId": "XATU",
+      "english": "XATU",
+      "french": "XATU"
+    },
+    {
+      "speciesId": "MAREEP",
+      "english": "MAREEP",
+      "french": "MAREEP"
+    },
+    {
+      "speciesId": "FLAAFFY",
+      "english": "FLAAFFY",
+      "french": "FLAAFFY"
+    },
+    {
+      "speciesId": "AMPHAROS",
+      "english": "AMPHAROS",
+      "french": "AMPHAROS"
+    },
+    {
+      "speciesId": "BELLOSSOM",
+      "english": "BELLOSSOM",
+      "french": "BELLOSSOM"
+    },
+    {
+      "speciesId": "MARILL",
+      "english": "MARILL",
+      "french": "MARILL"
+    },
+    {
+      "speciesId": "AZUMARILL",
+      "english": "AZUMARILL",
+      "french": "AZUMARILL"
+    },
+    {
+      "speciesId": "SUDOWOODO",
+      "english": "SUDOWOODO",
+      "french": "SUDOWOODO"
+    },
+    {
+      "speciesId": "POLITOED",
+      "english": "POLITOED",
+      "french": "POLITOED"
+    },
+    {
+      "speciesId": "HOPPIP",
+      "english": "HOPPIP",
+      "french": "HOPPIP"
+    },
+    {
+      "speciesId": "SKIPLOOM",
+      "english": "SKIPLOOM",
+      "french": "SKIPLOOM"
+    },
+    {
+      "speciesId": "JUMPLUFF",
+      "english": "JUMPLUFF",
+      "french": "JUMPLUFF"
+    },
+    {
+      "speciesId": "AIPOM",
+      "english": "AIPOM",
+      "french": "AIPOM"
+    },
+    {
+      "speciesId": "SUNKERN",
+      "english": "SUNKERN",
+      "french": "SUNKERN"
+    },
+    {
+      "speciesId": "SUNFLORA",
+      "english": "SUNFLORA",
+      "french": "SUNFLORA"
+    },
+    {
+      "speciesId": "YANMA",
+      "english": "YANMA",
+      "french": "YANMA"
+    },
+    {
+      "speciesId": "WOOPER",
+      "english": "WOOPER",
+      "french": "WOOPER"
+    },
+    {
+      "speciesId": "QUAGSIRE",
+      "english": "QUAGSIRE",
+      "french": "QUAGSIRE"
+    },
+    {
+      "speciesId": "ESPEON",
+      "english": "ESPEON",
+      "french": "ESPEON"
+    },
+    {
+      "speciesId": "UMBREON",
+      "english": "UMBREON",
+      "french": "UMBREON"
+    },
+    {
+      "speciesId": "MURKROW",
+      "english": "MURKROW",
+      "french": "MURKROW"
+    },
+    {
+      "speciesId": "SLOWKING",
+      "english": "SLOWKING",
+      "french": "SLOWKING"
+    },
+    {
+      "speciesId": "MISDREAVUS",
+      "english": "MISDREAVUS",
+      "french": "MISDREAVUS"
+    },
+    {
+      "speciesId": "UNOWN",
+      "english": "UNOWN",
+      "french": "UNOWN"
+    },
+    {
+      "speciesId": "WOBBUFFET",
+      "english": "WOBBUFFET",
+      "french": "WOBBUFFET"
+    },
+    {
+      "speciesId": "GIRAFARIG",
+      "english": "GIRAFARIG",
+      "french": "GIRAFARIG"
+    },
+    {
+      "speciesId": "PINECO",
+      "english": "PINECO",
+      "french": "PINECO"
+    },
+    {
+      "speciesId": "FORRETRESS",
+      "english": "FORRETRESS",
+      "french": "FORRETRESS"
+    },
+    {
+      "speciesId": "DUNSPARCE",
+      "english": "DUNSPARCE",
+      "french": "DUNSPARCE"
+    },
+    {
+      "speciesId": "GLIGAR",
+      "english": "GLIGAR",
+      "french": "GLIGAR"
+    },
+    {
+      "speciesId": "STEELIX",
+      "english": "STEELIX",
+      "french": "STEELIX"
+    },
+    {
+      "speciesId": "SNUBBULL",
+      "english": "SNUBBULL",
+      "french": "SNUBBULL"
+    },
+    {
+      "speciesId": "GRANBULL",
+      "english": "GRANBULL",
+      "french": "GRANBULL"
+    },
+    {
+      "speciesId": "QWILFISH",
+      "english": "QWILFISH",
+      "french": "QWILFISH"
+    },
+    {
+      "speciesId": "SCIZOR",
+      "english": "SCIZOR",
+      "french": "SCIZOR"
+    },
+    {
+      "speciesId": "SHUCKLE",
+      "english": "SHUCKLE",
+      "french": "SHUCKLE"
+    },
+    {
+      "speciesId": "HERACROSS",
+      "english": "HERACROSS",
+      "french": "HERACROSS"
+    },
+    {
+      "speciesId": "SNEASEL",
+      "english": "SNEASEL",
+      "french": "SNEASEL"
+    },
+    {
+      "speciesId": "TEDDIURSA",
+      "english": "TEDDIURSA",
+      "french": "TEDDIURSA"
+    },
+    {
+      "speciesId": "URSARING",
+      "english": "URSARING",
+      "french": "URSARING"
+    },
+    {
+      "speciesId": "SLUGMA",
+      "english": "SLUGMA",
+      "french": "SLUGMA"
+    },
+    {
+      "speciesId": "MAGCARGO",
+      "english": "MAGCARGO",
+      "french": "MAGCARGO"
+    },
+    {
+      "speciesId": "SWINUB",
+      "english": "SWINUB",
+      "french": "SWINUB"
+    },
+    {
+      "speciesId": "PILOSWINE",
+      "english": "PILOSWINE",
+      "french": "PILOSWINE"
+    },
+    {
+      "speciesId": "CORSOLA",
+      "english": "CORSOLA",
+      "french": "CORSOLA"
+    },
+    {
+      "speciesId": "REMORAID",
+      "english": "REMORAID",
+      "french": "REMORAID"
+    },
+    {
+      "speciesId": "OCTILLERY",
+      "english": "OCTILLERY",
+      "french": "OCTILLERY"
+    },
+    {
+      "speciesId": "DELIBIRD",
+      "english": "DELIBIRD",
+      "french": "DELIBIRD"
+    },
+    {
+      "speciesId": "MANTINE",
+      "english": "MANTINE",
+      "french": "MANTINE"
+    },
+    {
+      "speciesId": "SKARMORY",
+      "english": "SKARMORY",
+      "french": "SKARMORY"
+    },
+    {
+      "speciesId": "HOUNDOUR",
+      "english": "HOUNDOUR",
+      "french": "HOUNDOUR"
+    },
+    {
+      "speciesId": "HOUNDOOM",
+      "english": "HOUNDOOM",
+      "french": "HOUNDOOM"
+    },
+    {
+      "speciesId": "KINGDRA",
+      "english": "KINGDRA",
+      "french": "KINGDRA"
+    },
+    {
+      "speciesId": "PHANPY",
+      "english": "PHANPY",
+      "french": "PHANPY"
+    },
+    {
+      "speciesId": "DONPHAN",
+      "english": "DONPHAN",
+      "french": "DONPHAN"
+    },
+    {
+      "speciesId": "PORYGON2",
+      "english": "PORYGON2",
+      "french": "PORYGON2"
+    },
+    {
+      "speciesId": "STANTLER",
+      "english": "STANTLER",
+      "french": "STANTLER"
+    },
+    {
+      "speciesId": "SMEARGLE",
+      "english": "SMEARGLE",
+      "french": "SMEARGLE"
+    },
+    {
+      "speciesId": "TYROGUE",
+      "english": "TYROGUE",
+      "french": "TYROGUE"
+    },
+    {
+      "speciesId": "HITMONTOP",
+      "english": "HITMONTOP",
+      "french": "HITMONTOP"
+    },
+    {
+      "speciesId": "SMOOCHUM",
+      "english": "SMOOCHUM",
+      "french": "SMOOCHUM"
+    },
+    {
+      "speciesId": "ELEKID",
+      "english": "ELEKID",
+      "french": "ELEKID"
+    },
+    {
+      "speciesId": "MAGBY",
+      "english": "MAGBY",
+      "french": "MAGBY"
+    },
+    {
+      "speciesId": "MILTANK",
+      "english": "MILTANK",
+      "french": "MILTANK"
+    },
+    {
+      "speciesId": "BLISSEY",
+      "english": "BLISSEY",
+      "french": "BLISSEY"
+    },
+    {
+      "speciesId": "RAIKOU",
+      "english": "RAIKOU",
+      "french": "RAIKOU"
+    },
+    {
+      "speciesId": "ENTEI",
+      "english": "ENTEI",
+      "french": "ENTEI"
+    },
+    {
+      "speciesId": "SUICUNE",
+      "english": "SUICUNE",
+      "french": "SUICUNE"
+    },
+    {
+      "speciesId": "LARVITAR",
+      "english": "LARVITAR",
+      "french": "LARVITAR"
+    },
+    {
+      "speciesId": "PUPITAR",
+      "english": "PUPITAR",
+      "french": "PUPITAR"
+    },
+    {
+      "speciesId": "TYRANITAR",
+      "english": "TYRANITAR",
+      "french": "TYRANITAR"
+    },
+    {
+      "speciesId": "LUGIA",
+      "english": "LUGIA",
+      "french": "LUGIA"
+    },
+    {
+      "speciesId": "HO_OH",
+      "english": "HO-OH",
+      "french": "HO-OH"
+    },
+    {
+      "speciesId": "CELEBI",
+      "english": "CELEBI",
+      "french": "CELEBI"
+    },
+    {
+      "speciesId": "OLD_UNOWN_B",
+      "english": "?",
+      "french": "?"
+    },
+    {
+      "speciesId": "OLD_UNOWN_C",
+      "english": "?",
+      "french": "?"
+    },
+    {
+      "speciesId": "OLD_UNOWN_D",
+      "english": "?",
+      "french": "?"
+    },
+    {
+      "speciesId": "OLD_UNOWN_E",
+      "english": "?",
+      "french": "?"
+    },
+    {
+      "speciesId": "OLD_UNOWN_F",
+      "english": "?",
+      "french": "?"
+    },
+    {
+      "speciesId": "OLD_UNOWN_G",
+      "english": "?",
+      "french": "?"
+    },
+    {
+      "speciesId": "OLD_UNOWN_H",
+      "english": "?",
+      "french": "?"
+    },
+    {
+      "speciesId": "OLD_UNOWN_I",
+      "english": "?",
+      "french": "?"
+    },
+    {
+      "speciesId": "OLD_UNOWN_J",
+      "english": "?",
+      "french": "?"
+    },
+    {
+      "speciesId": "OLD_UNOWN_K",
+      "english": "?",
+      "french": "?"
+    },
+    {
+      "speciesId": "OLD_UNOWN_L",
+      "english": "?",
+      "french": "?"
+    },
+    {
+      "speciesId": "OLD_UNOWN_M",
+      "english": "?",
+      "french": "?"
+    },
+    {
+      "speciesId": "OLD_UNOWN_N",
+      "english": "?",
+      "french": "?"
+    },
+    {
+      "speciesId": "OLD_UNOWN_O",
+      "english": "?",
+      "french": "?"
+    },
+    {
+      "speciesId": "OLD_UNOWN_P",
+      "english": "?",
+      "french": "?"
+    },
+    {
+      "speciesId": "OLD_UNOWN_Q",
+      "english": "?",
+      "french": "?"
+    },
+    {
+      "speciesId": "OLD_UNOWN_R",
+      "english": "?",
+      "french": "?"
+    },
+    {
+      "speciesId": "OLD_UNOWN_S",
+      "english": "?",
+      "french": "?"
+    },
+    {
+      "speciesId": "OLD_UNOWN_T",
+      "english": "?",
+      "french": "?"
+    },
+    {
+      "speciesId": "OLD_UNOWN_U",
+      "english": "?",
+      "french": "?"
+    },
+    {
+      "speciesId": "OLD_UNOWN_V",
+      "english": "?",
+      "french": "?"
+    },
+    {
+      "speciesId": "OLD_UNOWN_W",
+      "english": "?",
+      "french": "?"
+    },
+    {
+      "speciesId": "OLD_UNOWN_X",
+      "english": "?",
+      "french": "?"
+    },
+    {
+      "speciesId": "OLD_UNOWN_Y",
+      "english": "?",
+      "french": "?"
+    },
+    {
+      "speciesId": "OLD_UNOWN_Z",
+      "english": "?",
+      "french": "?"
+    },
+    {
+      "speciesId": "TREECKO",
+      "english": "TREECKO",
+      "french": "TREECKO"
+    },
+    {
+      "speciesId": "GROVYLE",
+      "english": "GROVYLE",
+      "french": "GROVYLE"
+    },
+    {
+      "speciesId": "SCEPTILE",
+      "english": "SCEPTILE",
+      "french": "SCEPTILE"
+    },
+    {
+      "speciesId": "TORCHIC",
+      "english": "TORCHIC",
+      "french": "TORCHIC"
+    },
+    {
+      "speciesId": "COMBUSKEN",
+      "english": "COMBUSKEN",
+      "french": "COMBUSKEN"
+    },
+    {
+      "speciesId": "BLAZIKEN",
+      "english": "BLAZIKEN",
+      "french": "BLAZIKEN"
+    },
+    {
+      "speciesId": "MUDKIP",
+      "english": "MUDKIP",
+      "french": "MUDKIP"
+    },
+    {
+      "speciesId": "MARSHTOMP",
+      "english": "MARSHTOMP",
+      "french": "MARSHTOMP"
+    },
+    {
+      "speciesId": "SWAMPERT",
+      "english": "SWAMPERT",
+      "french": "SWAMPERT"
+    },
+    {
+      "speciesId": "POOCHYENA",
+      "english": "POOCHYENA",
+      "french": "POOCHYENA"
+    },
+    {
+      "speciesId": "MIGHTYENA",
+      "english": "MIGHTYENA",
+      "french": "MIGHTYENA"
+    },
+    {
+      "speciesId": "ZIGZAGOON",
+      "english": "ZIGZAGOON",
+      "french": "ZIGZAGOON"
+    },
+    {
+      "speciesId": "LINOONE",
+      "english": "LINOONE",
+      "french": "LINOONE"
+    },
+    {
+      "speciesId": "WURMPLE",
+      "english": "WURMPLE",
+      "french": "WURMPLE"
+    },
+    {
+      "speciesId": "SILCOON",
+      "english": "SILCOON",
+      "french": "SILCOON"
+    },
+    {
+      "speciesId": "BEAUTIFLY",
+      "english": "BEAUTIFLY",
+      "french": "BEAUTIFLY"
+    },
+    {
+      "speciesId": "CASCOON",
+      "english": "CASCOON",
+      "french": "CASCOON"
+    },
+    {
+      "speciesId": "DUSTOX",
+      "english": "DUSTOX",
+      "french": "DUSTOX"
+    },
+    {
+      "speciesId": "LOTAD",
+      "english": "LOTAD",
+      "french": "LOTAD"
+    },
+    {
+      "speciesId": "LOMBRE",
+      "english": "LOMBRE",
+      "french": "LOMBRE"
+    },
+    {
+      "speciesId": "LUDICOLO",
+      "english": "LUDICOLO",
+      "french": "LUDICOLO"
+    },
+    {
+      "speciesId": "SEEDOT",
+      "english": "SEEDOT",
+      "french": "SEEDOT"
+    },
+    {
+      "speciesId": "NUZLEAF",
+      "english": "NUZLEAF",
+      "french": "NUZLEAF"
+    },
+    {
+      "speciesId": "SHIFTRY",
+      "english": "SHIFTRY",
+      "french": "SHIFTRY"
+    },
+    {
+      "speciesId": "NINCADA",
+      "english": "NINCADA",
+      "french": "NINCADA"
+    },
+    {
+      "speciesId": "NINJASK",
+      "english": "NINJASK",
+      "french": "NINJASK"
+    },
+    {
+      "speciesId": "SHEDINJA",
+      "english": "SHEDINJA",
+      "french": "SHEDINJA"
+    },
+    {
+      "speciesId": "TAILLOW",
+      "english": "TAILLOW",
+      "french": "TAILLOW"
+    },
+    {
+      "speciesId": "SWELLOW",
+      "english": "SWELLOW",
+      "french": "SWELLOW"
+    },
+    {
+      "speciesId": "SHROOMISH",
+      "english": "SHROOMISH",
+      "french": "SHROOMISH"
+    },
+    {
+      "speciesId": "BRELOOM",
+      "english": "BRELOOM",
+      "french": "BRELOOM"
+    },
+    {
+      "speciesId": "SPINDA",
+      "english": "SPINDA",
+      "french": "SPINDA"
+    },
+    {
+      "speciesId": "WINGULL",
+      "english": "WINGULL",
+      "french": "WINGULL"
+    },
+    {
+      "speciesId": "PELIPPER",
+      "english": "PELIPPER",
+      "french": "PELIPPER"
+    },
+    {
+      "speciesId": "SURSKIT",
+      "english": "SURSKIT",
+      "french": "SURSKIT"
+    },
+    {
+      "speciesId": "MASQUERAIN",
+      "english": "MASQUERAIN",
+      "french": "MASQUERAIN"
+    },
+    {
+      "speciesId": "WAILMER",
+      "english": "WAILMER",
+      "french": "WAILMER"
+    },
+    {
+      "speciesId": "WAILORD",
+      "english": "WAILORD",
+      "french": "WAILORD"
+    },
+    {
+      "speciesId": "SKITTY",
+      "english": "SKITTY",
+      "french": "SKITTY"
+    },
+    {
+      "speciesId": "DELCATTY",
+      "english": "DELCATTY",
+      "french": "DELCATTY"
+    },
+    {
+      "speciesId": "KECLEON",
+      "english": "KECLEON",
+      "french": "KECLEON"
+    },
+    {
+      "speciesId": "BALTOY",
+      "english": "BALTOY",
+      "french": "BALTOY"
+    },
+    {
+      "speciesId": "CLAYDOL",
+      "english": "CLAYDOL",
+      "french": "CLAYDOL"
+    },
+    {
+      "speciesId": "NOSEPASS",
+      "english": "NOSEPASS",
+      "french": "NOSEPASS"
+    },
+    {
+      "speciesId": "TORKOAL",
+      "english": "TORKOAL",
+      "french": "TORKOAL"
+    },
+    {
+      "speciesId": "SABLEYE",
+      "english": "SABLEYE",
+      "french": "SABLEYE"
+    },
+    {
+      "speciesId": "BARBOACH",
+      "english": "BARBOACH",
+      "french": "BARBOACH"
+    },
+    {
+      "speciesId": "WHISCASH",
+      "english": "WHISCASH",
+      "french": "WHISCASH"
+    },
+    {
+      "speciesId": "LUVDISC",
+      "english": "LUVDISC",
+      "french": "LUVDISC"
+    },
+    {
+      "speciesId": "CORPHISH",
+      "english": "CORPHISH",
+      "french": "CORPHISH"
+    },
+    {
+      "speciesId": "CRAWDAUNT",
+      "english": "CRAWDAUNT",
+      "french": "CRAWDAUNT"
+    },
+    {
+      "speciesId": "FEEBAS",
+      "english": "FEEBAS",
+      "french": "FEEBAS"
+    },
+    {
+      "speciesId": "MILOTIC",
+      "english": "MILOTIC",
+      "french": "MILOTIC"
+    },
+    {
+      "speciesId": "CARVANHA",
+      "english": "CARVANHA",
+      "french": "CARVANHA"
+    },
+    {
+      "speciesId": "SHARPEDO",
+      "english": "SHARPEDO",
+      "french": "SHARPEDO"
+    },
+    {
+      "speciesId": "TRAPINCH",
+      "english": "TRAPINCH",
+      "french": "TRAPINCH"
+    },
+    {
+      "speciesId": "VIBRAVA",
+      "english": "VIBRAVA",
+      "french": "VIBRAVA"
+    },
+    {
+      "speciesId": "FLYGON",
+      "english": "FLYGON",
+      "french": "FLYGON"
+    },
+    {
+      "speciesId": "MAKUHITA",
+      "english": "MAKUHITA",
+      "french": "MAKUHITA"
+    },
+    {
+      "speciesId": "HARIYAMA",
+      "english": "HARIYAMA",
+      "french": "HARIYAMA"
+    },
+    {
+      "speciesId": "ELECTRIKE",
+      "english": "ELECTRIKE",
+      "french": "ELECTRIKE"
+    },
+    {
+      "speciesId": "MANECTRIC",
+      "english": "MANECTRIC",
+      "french": "MANECTRIC"
+    },
+    {
+      "speciesId": "NUMEL",
+      "english": "NUMEL",
+      "french": "NUMEL"
+    },
+    {
+      "speciesId": "CAMERUPT",
+      "english": "CAMERUPT",
+      "french": "CAMERUPT"
+    },
+    {
+      "speciesId": "SPHEAL",
+      "english": "SPHEAL",
+      "french": "SPHEAL"
+    },
+    {
+      "speciesId": "SEALEO",
+      "english": "SEALEO",
+      "french": "SEALEO"
+    },
+    {
+      "speciesId": "WALREIN",
+      "english": "WALREIN",
+      "french": "WALREIN"
+    },
+    {
+      "speciesId": "CACNEA",
+      "english": "CACNEA",
+      "french": "CACNEA"
+    },
+    {
+      "speciesId": "CACTURNE",
+      "english": "CACTURNE",
+      "french": "CACTURNE"
+    },
+    {
+      "speciesId": "SNORUNT",
+      "english": "SNORUNT",
+      "french": "SNORUNT"
+    },
+    {
+      "speciesId": "GLALIE",
+      "english": "GLALIE",
+      "french": "GLALIE"
+    },
+    {
+      "speciesId": "LUNATONE",
+      "english": "LUNATONE",
+      "french": "LUNATONE"
+    },
+    {
+      "speciesId": "SOLROCK",
+      "english": "SOLROCK",
+      "french": "SOLROCK"
+    },
+    {
+      "speciesId": "AZURILL",
+      "english": "AZURILL",
+      "french": "AZURILL"
+    },
+    {
+      "speciesId": "SPOINK",
+      "english": "SPOINK",
+      "french": "SPOINK"
+    },
+    {
+      "speciesId": "GRUMPIG",
+      "english": "GRUMPIG",
+      "french": "GRUMPIG"
+    },
+    {
+      "speciesId": "PLUSLE",
+      "english": "PLUSLE",
+      "french": "PLUSLE"
+    },
+    {
+      "speciesId": "MINUN",
+      "english": "MINUN",
+      "french": "MINUN"
+    },
+    {
+      "speciesId": "MAWILE",
+      "english": "MAWILE",
+      "french": "MAWILE"
+    },
+    {
+      "speciesId": "MEDITITE",
+      "english": "MEDITITE",
+      "french": "MEDITITE"
+    },
+    {
+      "speciesId": "MEDICHAM",
+      "english": "MEDICHAM",
+      "french": "MEDICHAM"
+    },
+    {
+      "speciesId": "SWABLU",
+      "english": "SWABLU",
+      "french": "SWABLU"
+    },
+    {
+      "speciesId": "ALTARIA",
+      "english": "ALTARIA",
+      "french": "ALTARIA"
+    },
+    {
+      "speciesId": "WYNAUT",
+      "english": "WYNAUT",
+      "french": "WYNAUT"
+    },
+    {
+      "speciesId": "DUSKULL",
+      "english": "DUSKULL",
+      "french": "DUSKULL"
+    },
+    {
+      "speciesId": "DUSCLOPS",
+      "english": "DUSCLOPS",
+      "french": "DUSCLOPS"
+    },
+    {
+      "speciesId": "ROSELIA",
+      "english": "ROSELIA",
+      "french": "ROSELIA"
+    },
+    {
+      "speciesId": "SLAKOTH",
+      "english": "SLAKOTH",
+      "french": "SLAKOTH"
+    },
+    {
+      "speciesId": "VIGOROTH",
+      "english": "VIGOROTH",
+      "french": "VIGOROTH"
+    },
+    {
+      "speciesId": "SLAKING",
+      "english": "SLAKING",
+      "french": "SLAKING"
+    },
+    {
+      "speciesId": "GULPIN",
+      "english": "GULPIN",
+      "french": "GULPIN"
+    },
+    {
+      "speciesId": "SWALOT",
+      "english": "SWALOT",
+      "french": "SWALOT"
+    },
+    {
+      "speciesId": "TROPIUS",
+      "english": "TROPIUS",
+      "french": "TROPIUS"
+    },
+    {
+      "speciesId": "WHISMUR",
+      "english": "WHISMUR",
+      "french": "WHISMUR"
+    },
+    {
+      "speciesId": "LOUDRED",
+      "english": "LOUDRED",
+      "french": "LOUDRED"
+    },
+    {
+      "speciesId": "EXPLOUD",
+      "english": "EXPLOUD",
+      "french": "EXPLOUD"
+    },
+    {
+      "speciesId": "CLAMPERL",
+      "english": "CLAMPERL",
+      "french": "CLAMPERL"
+    },
+    {
+      "speciesId": "HUNTAIL",
+      "english": "HUNTAIL",
+      "french": "HUNTAIL"
+    },
+    {
+      "speciesId": "GOREBYSS",
+      "english": "GOREBYSS",
+      "french": "GOREBYSS"
+    },
+    {
+      "speciesId": "ABSOL",
+      "english": "ABSOL",
+      "french": "ABSOL"
+    },
+    {
+      "speciesId": "SHUPPET",
+      "english": "SHUPPET",
+      "french": "SHUPPET"
+    },
+    {
+      "speciesId": "BANETTE",
+      "english": "BANETTE",
+      "french": "BANETTE"
+    },
+    {
+      "speciesId": "SEVIPER",
+      "english": "SEVIPER",
+      "french": "SEVIPER"
+    },
+    {
+      "speciesId": "ZANGOOSE",
+      "english": "ZANGOOSE",
+      "french": "ZANGOOSE"
+    },
+    {
+      "speciesId": "RELICANTH",
+      "english": "RELICANTH",
+      "french": "RELICANTH"
+    },
+    {
+      "speciesId": "ARON",
+      "english": "ARON",
+      "french": "ARON"
+    },
+    {
+      "speciesId": "LAIRON",
+      "english": "LAIRON",
+      "french": "LAIRON"
+    },
+    {
+      "speciesId": "AGGRON",
+      "english": "AGGRON",
+      "french": "AGGRON"
+    },
+    {
+      "speciesId": "CASTFORM",
+      "english": "CASTFORM",
+      "french": "CASTFORM"
+    },
+    {
+      "speciesId": "VOLBEAT",
+      "english": "VOLBEAT",
+      "french": "VOLBEAT"
+    },
+    {
+      "speciesId": "ILLUMISE",
+      "english": "ILLUMISE",
+      "french": "ILLUMISE"
+    },
+    {
+      "speciesId": "LILEEP",
+      "english": "LILEEP",
+      "french": "LILEEP"
+    },
+    {
+      "speciesId": "CRADILY",
+      "english": "CRADILY",
+      "french": "CRADILY"
+    },
+    {
+      "speciesId": "ANORITH",
+      "english": "ANORITH",
+      "french": "ANORITH"
+    },
+    {
+      "speciesId": "ARMALDO",
+      "english": "ARMALDO",
+      "french": "ARMALDO"
+    },
+    {
+      "speciesId": "RALTS",
+      "english": "RALTS",
+      "french": "RALTS"
+    },
+    {
+      "speciesId": "KIRLIA",
+      "english": "KIRLIA",
+      "french": "KIRLIA"
+    },
+    {
+      "speciesId": "GARDEVOIR",
+      "english": "GARDEVOIR",
+      "french": "GARDEVOIR"
+    },
+    {
+      "speciesId": "BAGON",
+      "english": "BAGON",
+      "french": "BAGON"
+    },
+    {
+      "speciesId": "SHELGON",
+      "english": "SHELGON",
+      "french": "SHELGON"
+    },
+    {
+      "speciesId": "SALAMENCE",
+      "english": "SALAMENCE",
+      "french": "SALAMENCE"
+    },
+    {
+      "speciesId": "BELDUM",
+      "english": "BELDUM",
+      "french": "BELDUM"
+    },
+    {
+      "speciesId": "METANG",
+      "english": "METANG",
+      "french": "METANG"
+    },
+    {
+      "speciesId": "METAGROSS",
+      "english": "METAGROSS",
+      "french": "METAGROSS"
+    },
+    {
+      "speciesId": "REGIROCK",
+      "english": "REGIROCK",
+      "french": "REGIROCK"
+    },
+    {
+      "speciesId": "REGICE",
+      "english": "REGICE",
+      "french": "REGICE"
+    },
+    {
+      "speciesId": "REGISTEEL",
+      "english": "REGISTEEL",
+      "french": "REGISTEEL"
+    },
+    {
+      "speciesId": "KYOGRE",
+      "english": "KYOGRE",
+      "french": "KYOGRE"
+    },
+    {
+      "speciesId": "GROUDON",
+      "english": "GROUDON",
+      "french": "GROUDON"
+    },
+    {
+      "speciesId": "RAYQUAZA",
+      "english": "RAYQUAZA",
+      "french": "RAYQUAZA"
+    },
+    {
+      "speciesId": "LATIAS",
+      "english": "LATIAS",
+      "french": "LATIAS"
+    },
+    {
+      "speciesId": "LATIOS",
+      "english": "LATIOS",
+      "french": "LATIOS"
+    },
+    {
+      "speciesId": "JIRACHI",
+      "english": "JIRACHI",
+      "french": "JIRACHI"
+    },
+    {
+      "speciesId": "DEOXYS",
+      "english": "DEOXYS",
+      "french": "DEOXYS"
+    },
+    {
+      "speciesId": "CHIMECHO",
+      "english": "CHIMECHO",
+      "french": "CHIMECHO"
+    }
+  ]
+}

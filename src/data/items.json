@@ -14,7 +14,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "MASTER BALL",
@@ -30,7 +32,9 @@
       "fieldUseFunc": "NULL",
       "battleUsage": 2,
       "battleUseFunc": "BattleUseFunc_PokeBallEtc",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "La meilleure Ball.\\nElle capture n'importe quel\\nPokémon à coup sûr.",
+      "french": "Master Ball"
     },
     {
       "english": "ULTRA BALL",
@@ -46,7 +50,9 @@
       "fieldUseFunc": "NULL",
       "battleUsage": 2,
       "battleUseFunc": "BattleUseFunc_PokeBallEtc",
-      "secondaryId": 1
+      "secondaryId": 1,
+      "description_french": "Une meilleure Ball avec un plus haut\\ntaux de capture qu'une Super Ball.",
+      "french": "Hyper Ball"
     },
     {
       "english": "GREAT BALL",
@@ -62,10 +68,12 @@
       "fieldUseFunc": "NULL",
       "battleUsage": 2,
       "battleUseFunc": "BattleUseFunc_PokeBallEtc",
-      "secondaryId": 2
+      "secondaryId": 2,
+      "description_french": "Une bonne Ball avec un plus haut\\ntaux de capture qu'une Poké Ball.",
+      "french": "Super Ball"
     },
     {
-      "english": "POK\u00e9 BALL",
+      "english": "POKé BALL",
       "itemId": "ITEM_POKE_BALL",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -78,7 +86,9 @@
       "fieldUseFunc": "NULL",
       "battleUsage": 2,
       "battleUseFunc": "BattleUseFunc_PokeBallEtc",
-      "secondaryId": 3
+      "secondaryId": 3,
+      "description_french": "Un objet qui permet d'attraper les\\nPokémons.",
+      "french": "Poké Ball"
     },
     {
       "english": "SAFARI BALL",
@@ -94,7 +104,9 @@
       "fieldUseFunc": "NULL",
       "battleUsage": 2,
       "battleUseFunc": "BattleUseFunc_PokeBallEtc",
-      "secondaryId": 4
+      "secondaryId": 4,
+      "description_french": "Une ball spéciale qui ne peut être\\nutilisée que dans un Parc Safari\\nElle revêt un motif camouflage.",
+      "french": "Safari Ball"
     },
     {
       "english": "NET BALL",
@@ -110,7 +122,9 @@
       "fieldUseFunc": "NULL",
       "battleUsage": 2,
       "battleUseFunc": "BattleUseFunc_PokeBallEtc",
-      "secondaryId": 5
+      "secondaryId": 5,
+      "description_french": "Une Poké Ball un peu spéciale qui\\nfonctionne particulièrement bien\\nsur les Pokémons Eau ou Insecte.",
+      "french": "Filet Ball"
     },
     {
       "english": "DIVE BALL",
@@ -126,7 +140,9 @@
       "fieldUseFunc": "NULL",
       "battleUsage": 2,
       "battleUseFunc": "BattleUseFunc_PokeBallEtc",
-      "secondaryId": 6
+      "secondaryId": 6,
+      "description_french": "Une Poké Ball un peu spéciale qui\\nfonctionne particulièrement bien\\nsur les Pokémons sous-marins.",
+      "french": "Scuba Ball"
     },
     {
       "english": "NEST BALL",
@@ -142,7 +158,9 @@
       "fieldUseFunc": "NULL",
       "battleUsage": 2,
       "battleUseFunc": "BattleUseFunc_PokeBallEtc",
-      "secondaryId": 7
+      "secondaryId": 7,
+      "description_french": "Une Poké Ball un peu spéciale qui\\nfonctionne particulièrement bien\\nsur les Pokémons les plus faibles.",
+      "french": "Faiblo Ball"
     },
     {
       "english": "REPEAT BALL",
@@ -158,7 +176,9 @@
       "fieldUseFunc": "NULL",
       "battleUsage": 2,
       "battleUseFunc": "BattleUseFunc_PokeBallEtc",
-      "secondaryId": 8
+      "secondaryId": 8,
+      "description_french": "Une Poké Ball un peu spéciale qui\\nfonctionne particulièrement bien\\nsur les Pokémons déjà capturés.",
+      "french": "Bis Ball"
     },
     {
       "english": "TIMER BALL",
@@ -174,7 +194,9 @@
       "fieldUseFunc": "NULL",
       "battleUsage": 2,
       "battleUseFunc": "BattleUseFunc_PokeBallEtc",
-      "secondaryId": 9
+      "secondaryId": 9,
+      "description_french": "Une Poké Ball un peu spéciale qui\\ndevient progressivement plus efficace\\nau fil des tours en combat.",
+      "french": "Chrono Ball"
     },
     {
       "english": "LUXURY BALL",
@@ -190,7 +212,9 @@
       "fieldUseFunc": "NULL",
       "battleUsage": 2,
       "battleUseFunc": "BattleUseFunc_PokeBallEtc",
-      "secondaryId": 10
+      "secondaryId": 10,
+      "description_french": "Une Poké Ball pratique qui permet\\nde gagner rapidement l'amitié\\nd'un Pokémon sauvage attrapé.",
+      "french": "Luxe Ball"
     },
     {
       "english": "PREMIER BALL",
@@ -206,7 +230,9 @@
       "fieldUseFunc": "NULL",
       "battleUsage": 2,
       "battleUseFunc": "BattleUseFunc_PokeBallEtc",
-      "secondaryId": 11
+      "secondaryId": 11,
+      "description_french": "Une Poké Ball plutôt rare qui\\nfut créée pour une occasion spéciale.",
+      "french": "Honor Ball"
     },
     {
       "english": "POTION",
@@ -222,7 +248,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Un médicament sous forme de spray.\\nPermet de restaurer 20 des PV\\nà un Pokémon.",
+      "french": "Potion"
     },
     {
       "english": "ANTIDOTE",
@@ -238,7 +266,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Un médicament sous forme de spray.\\nGuérit un Pokémon empoisonné.",
+      "french": "Antidote"
     },
     {
       "english": "BURN HEAL",
@@ -254,7 +284,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Un médicament sous forme de spray.\\nIl soigne les brûlures d'un Pokémon.",
+      "french": "Anti-Brûle"
     },
     {
       "english": "ICE HEAL",
@@ -270,7 +302,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Un médicament sous forme de spray.\\nRéchauffe un Pokémon gelé.",
+      "french": "Antigel"
     },
     {
       "english": "AWAKENING",
@@ -286,7 +320,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Un médicament sous forme de spray.\\nRéveille un Pokémon endormi.",
+      "french": "Réveil"
     },
     {
       "english": "PARLYZ HEAL",
@@ -302,7 +338,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Un médicament sous forme de spray.\\nSoigne la paralysie d'un Pokémon.",
+      "french": "Anti-Para"
     },
     {
       "english": "FULL RESTORE",
@@ -318,7 +356,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une pommade qui restaure tous les PV\\nd'un Pokémon et soigne toutes\\nses altérations de statut.",
+      "french": "Guérison"
     },
     {
       "english": "MAX POTION",
@@ -334,7 +374,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Un médicament sous forme de spray.\\nRestaure tout les PV d'un Pokémon.",
+      "french": "Potion Max"
     },
     {
       "english": "HYPER POTION",
@@ -350,7 +392,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Un médicament sous forme de spray.\\nRestaure 200 PV d'un Pokémon.",
+      "french": "Hyper Potion"
     },
     {
       "english": "SUPER POTION",
@@ -366,7 +410,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Un médicament sous forme de spray.\\nRestaure 50 PV d'un Pokémon.",
+      "french": "Super Potion"
     },
     {
       "english": "FULL HEAL",
@@ -382,7 +428,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Un médicament sous forme de spray.\\nSoigne toutes les altérations de\\nstatut d'un Pokémon.",
+      "french": "Total Soin"
     },
     {
       "english": "REVIVE",
@@ -398,7 +446,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Un médicament qui ranime un\\nPokémon K.O. et restaure la\\nmoitié de ses PV max.",
+      "french": "Rappel"
     },
     {
       "english": "MAX REVIVE",
@@ -414,7 +464,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Un médicament qui ranime un\\nPokémon K.O. et restaure\\ntous ses PV.",
+      "french": "Rappel Max"
     },
     {
       "english": "FRESH WATER",
@@ -430,7 +482,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une eau riche en minéraux.\\nRestaure 50 PV à un Pokémon.",
+      "french": "Eau Fraîche"
     },
     {
       "english": "SODA POP",
@@ -446,7 +500,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une boisson pétillante.\\nRestaure 60 PV à un Pokémon.",
+      "french": "Soda Cool"
     },
     {
       "english": "LEMONADE",
@@ -462,7 +518,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une boisson très sucrée.\\nRestaure 80 PV à un Pokémon.",
+      "french": "Mix au Lait"
     },
     {
       "english": "MOOMOO MILK",
@@ -478,7 +536,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Un lait très nourrissant.\\nRestaure 100 PV à un Pokémon.",
+      "french": "Lait Meumeu"
     },
     {
       "english": "ENERGYPOWDER",
@@ -494,7 +554,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une poudre médicinale très amère.\\nRestaure 50 PV à un Pokémon.",
+      "french": "Poudrénergie"
     },
     {
       "english": "ENERGY ROOT",
@@ -510,7 +572,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une racine très amère.\\nRestaure 200 PV à un Pokémon.",
+      "french": "Racinénergie"
     },
     {
       "english": "HEAL POWDER",
@@ -526,7 +590,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une poudre médicinale très amère.\\nSoigne toutes les altérations de\\nstatut d'un Pokémon.",
+      "french": "Poudre Soin"
     },
     {
       "english": "REVIVAL HERB",
@@ -542,7 +608,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une herbe médicinale très amère.\\nRanime un Pokémon K.O.\\net restaure tous ses PV.",
+      "french": "Herbe Rappel"
     },
     {
       "english": "ETHER",
@@ -558,7 +626,9 @@
       "fieldUseFunc": "FieldUseFunc_Ether",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Ether",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Restaure 10 PP\\nd'une capacité selectionnée.",
+      "french": "Huile"
     },
     {
       "english": "MAX ETHER",
@@ -574,7 +644,9 @@
       "fieldUseFunc": "FieldUseFunc_Ether",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Ether",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Restaure tous les PP\\nd'une capacité selectionnée.",
+      "french": "Huile Max"
     },
     {
       "english": "ELIXIR",
@@ -590,7 +662,9 @@
       "fieldUseFunc": "FieldUseFunc_Ether",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Ether",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Restaure 10 PP pour\\ntoutes les capacités d'un Pokémon.",
+      "french": "Elixir"
     },
     {
       "english": "MAX ELIXIR",
@@ -606,7 +680,9 @@
       "fieldUseFunc": "FieldUseFunc_Ether",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Ether",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Restaure tous les PP pour\\ntoutes les capacités d'un Pokémon.",
+      "french": "Max Elixir"
     },
     {
       "english": "LAVA COOKIE",
@@ -622,7 +698,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "La spécialité de la ville de\\nVermilava. Soigne tous les problèmes\\nde statut d'un Pokémon.",
+      "french": "Lava Cookie"
     },
     {
       "english": "BLUE FLUTE",
@@ -638,7 +716,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une flûte en verre qui réveille les\\nPokémon endormis.",
+      "french": "Flûte Bleue"
     },
     {
       "english": "YELLOW FLUTE",
@@ -654,7 +734,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une flûte en verre qui sort un\\nPokémon de sa confusion.",
+      "french": "Flûte Jaune"
     },
     {
       "english": "RED FLUTE",
@@ -670,7 +752,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une flûte en verre qui met fin\\nà l'attirance.",
+      "french": "Flûte Rouge"
     },
     {
       "english": "BLACK FLUTE",
@@ -686,7 +770,9 @@
       "fieldUseFunc": "FieldUseFunc_BlackWhiteFlute",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une flûte en verre qui repousse\\nles Pokémons sauvages.",
+      "french": "Flûte Noire"
     },
     {
       "english": "WHITE FLUTE",
@@ -702,7 +788,9 @@
       "fieldUseFunc": "FieldUseFunc_BlackWhiteFlute",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une flûte en verre qui attire\\nles Pokémons sauvages.",
+      "french": "Flûte Blanche"
     },
     {
       "english": "BERRY JUICE",
@@ -718,7 +806,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une boisson 100 % pur Jus de Baie.\\nRestaure 20 PV d'un Pokémon.",
+      "french": "Jus de Baie"
     },
     {
       "english": "SACRED ASH",
@@ -734,7 +824,9 @@
       "fieldUseFunc": "FieldUseFunc_SacredAsh",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Ranime tous les Pokémon K.O.\\net restaure tous leurs PV.",
+      "french": "Cendre Sacrée"
     },
     {
       "english": "SHOAL SALT",
@@ -750,7 +842,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Sel pur provenant des profondeurs\\nde la Grotte Tréfonds.\\nIl est extrêmement salé.",
+      "french": "Sel Tréfonds"
     },
     {
       "english": "SHOAL SHELL",
@@ -766,7 +860,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Joli coquillage trouvé au fin fond\\nde la Grotte Tréfonds.\\nIl est orné de rayures bleues et blanches.",
+      "french": "CoquilleTréfonds"
     },
     {
       "english": "RED SHARD",
@@ -782,7 +878,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Petit tesson rouge.\\nIl semble provenir d'un\\noutil très ancien.",
+      "french": "Tesson Rouge"
     },
     {
       "english": "BLUE SHARD",
@@ -798,7 +896,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Petit tesson bleu.\\nIl semble provenir d'un\\noutil très ancien.",
+      "french": "Tesson Bleu"
     },
     {
       "english": "YELLOW SHARD",
@@ -814,7 +914,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Petit tesson jaune.\\nIl semble provenir d'un\\noutil très ancien.",
+      "french": "Tesson Jaune"
     },
     {
       "english": "GREEN SHARD",
@@ -830,7 +932,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Petit tesson vert.\\nIl semble provenir d'un\\noutil très ancien.",
+      "french": "Tesson Vert"
     },
     {
       "english": "????????",
@@ -846,7 +950,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -862,7 +968,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -878,7 +986,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -894,7 +1004,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -910,7 +1022,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -926,7 +1040,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -942,7 +1058,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -958,7 +1076,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -974,7 +1094,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -990,7 +1112,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -1006,7 +1130,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "HP UP",
@@ -1022,7 +1148,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une boisson très nutritive\\nqui monte les PV d'un Pokémon.",
+      "french": "PV Plus"
     },
     {
       "english": "PROTEIN",
@@ -1038,7 +1166,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une boisson très nutritive\\nqui monte l'Attaque d'un Pokémon.",
+      "french": "Protéine"
     },
     {
       "english": "IRON",
@@ -1054,7 +1184,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une boisson très nutritive\\nqui monte la Défense d'un Pokémon.",
+      "french": "Fer"
     },
     {
       "english": "CARBOS",
@@ -1070,7 +1202,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une boisson très nutritive\\nqui monte la Vitesse d'un Pokémon.",
+      "french": "Carbone"
     },
     {
       "english": "CALCIUM",
@@ -1086,7 +1220,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une boisson très nutritive\\nqui monte l'Attaque Spé. d'un Pokémon.",
+      "french": "Calcium"
     },
     {
       "english": "RARE CANDY",
@@ -1102,7 +1238,9 @@
       "fieldUseFunc": "FieldUseFunc_RareCandy",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Un bonbon plein d'énergie.\\nIl permet à un Pokémon de gagner\\nun niveau d'expérience.",
+      "french": "Super Bonbon"
     },
     {
       "english": "PP UP",
@@ -1118,7 +1256,9 @@
       "fieldUseFunc": "FieldUseFunc_PpUp",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Monte un peu les PP max\\nd'une capacité sélectionnée.",
+      "french": "PP Plus"
     },
     {
       "english": "ZINC",
@@ -1134,7 +1274,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une boisson très nutritive\\nqui monte la Défense Spé.\\nd'un Pokémon.",
+      "french": "Zinc"
     },
     {
       "english": "PP MAX",
@@ -1150,7 +1292,9 @@
       "fieldUseFunc": "FieldUseFunc_PpUp",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Monte les PP d'une capacité\\nà son maximum.",
+      "french": "PP Max"
     },
     {
       "english": "????????",
@@ -1166,7 +1310,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "GUARD SPEC.",
@@ -1182,7 +1328,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 2,
       "battleUseFunc": "BattleUseFunc_StatBooster",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Empêche la réduction des points\\nde stats de tous vos\\nPokémons pendant 5 tours.",
+      "french": "Garde-Stats"
     },
     {
       "english": "DIRE HIT",
@@ -1198,7 +1346,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 2,
       "battleUseFunc": "BattleUseFunc_StatBooster",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Monte le taux de critiques pendant\\nun combat. L'effet s'estompe si le\\nPokémon se retire.",
+      "french": "Muscle +"
     },
     {
       "english": "X ATTACK",
@@ -1214,7 +1364,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 2,
       "battleUseFunc": "BattleUseFunc_StatBooster",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Monte l'Attaque pendant\\nun combat. L'effet s'estompe si le\\nPokémon se retire.",
+      "french": "Attaque +"
     },
     {
       "english": "X DEFEND",
@@ -1230,7 +1382,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 2,
       "battleUseFunc": "BattleUseFunc_StatBooster",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Monte la Défense pendant\\nun combat. L'effet s'estompe si le\\nPokémon se retire.",
+      "french": "Défense +"
     },
     {
       "english": "X SPEED",
@@ -1246,7 +1400,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 2,
       "battleUseFunc": "BattleUseFunc_StatBooster",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Monte la Vitesse pendant\\nun combat. L'effet s'estompe si le\\nPokémon se retire.",
+      "french": "Vitesse +"
     },
     {
       "english": "X ACCURACY",
@@ -1262,7 +1418,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 2,
       "battleUseFunc": "BattleUseFunc_StatBooster",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Monte la Précision pendant\\nun combat. L'effet s'estompe si le\\nPokémon se retire.",
+      "french": "Précision +"
     },
     {
       "english": "X SPECIAL",
@@ -1278,10 +1436,12 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 2,
       "battleUseFunc": "BattleUseFunc_StatBooster",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Monte l'Attaque Spé. pendant\\nun combat. L'effet s'estompe si le\\nPokémon se retire.",
+      "french": "Précision +"
     },
     {
-      "english": "POK\u00e9 DOLL",
+      "english": "POKé DOLL",
       "itemId": "ITEM_POKE_DOLL",
       "price": 1000,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -1294,7 +1454,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 2,
       "battleUseFunc": "BattleUseFunc_PokeDoll",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Poupée qui attire les Pokémon.\\nPermet de s'enfuir d'un combat\\ncontre un Pokémon sauvage.",
+      "french": "Poké Poupée"
     },
     {
       "english": "FLUFFY TAIL",
@@ -1310,7 +1472,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 2,
       "battleUseFunc": "BattleUseFunc_PokeDoll",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Objet qui attire les Pokémon.\\nPermet de s'enfuir d'un combat\\ncontre un Pokémon sauvage.",
+      "french": "Queue Skitty"
     },
     {
       "english": "????????",
@@ -1326,7 +1490,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "SUPER REPEL",
@@ -1342,7 +1508,9 @@
       "fieldUseFunc": "FieldUseFunc_Repel",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Repousse les Pokémon sauvages\\nfaibles pendant 200 pas.",
+      "french": "Super Repousse"
     },
     {
       "english": "MAX REPEL",
@@ -1358,7 +1526,9 @@
       "fieldUseFunc": "FieldUseFunc_Repel",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Repousse les Pokémon sauvages\\nfaibles pendant 250 pas.",
+      "french": "Max Repousse"
     },
     {
       "english": "ESCAPE ROPE",
@@ -1374,7 +1544,9 @@
       "fieldUseFunc": "ItemUseOutOfBattle_EscapeRope",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une corde longue et solide\\npermettant de sortir rapidement\\nd'une grotte ou d'un donjon.",
+      "french": "Corde Sortie"
     },
     {
       "english": "REPEL",
@@ -1390,7 +1562,9 @@
       "fieldUseFunc": "FieldUseFunc_Repel",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Repousse les Pokémon sauvages\\nfaibles pendant 100 pas.",
+      "french": "Repousse"
     },
     {
       "english": "????????",
@@ -1406,7 +1580,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -1422,7 +1598,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -1438,7 +1616,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -1454,7 +1634,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -1470,7 +1652,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -1486,7 +1670,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "SUN STONE",
@@ -1502,7 +1688,9 @@
       "fieldUseFunc": "FieldUseFunc_EvoItem",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une pierre étrange qui fait\\névoluer certaines espèces de Pokémon.\\nElle est rouge comme le soleil.",
+      "french": "Pierre Soleil"
     },
     {
       "english": "MOON STONE",
@@ -1518,7 +1706,9 @@
       "fieldUseFunc": "FieldUseFunc_EvoItem",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une pierre étrange qui fait\\névoluer certaines espèces de Pokémon.\\nElle est noire comme la nuit.",
+      "french": "Pierre Lune"
     },
     {
       "english": "FIRE STONE",
@@ -1534,7 +1724,9 @@
       "fieldUseFunc": "FieldUseFunc_EvoItem",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une pierre étrange qui fait\\névoluer certaines espèces de Pokémon.\\nElle est orange.",
+      "french": "Pierre Feu"
     },
     {
       "english": "THUNDERSTONE",
@@ -1550,7 +1742,9 @@
       "fieldUseFunc": "FieldUseFunc_EvoItem",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une pierre étrange qui fait\\névoluer certaines espèces de Pokémon.\\nUn éclair est dessiné dessus.",
+      "french": "Pierre Foudre"
     },
     {
       "english": "WATER STONE",
@@ -1566,7 +1760,9 @@
       "fieldUseFunc": "FieldUseFunc_EvoItem",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une pierre étrange qui fait\\névoluer certaines espèces de Pokémon.\\nElle est de couleur bleue.",
+      "french": "Pierre Eau"
     },
     {
       "english": "LEAF STONE",
@@ -1582,7 +1778,9 @@
       "fieldUseFunc": "FieldUseFunc_EvoItem",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une pierre étrange qui fait\\névoluer certaines espèces de Pokémon.\\nUne feuille est dessinée dessus.",
+      "french": "Pierre Feuille"
     },
     {
       "english": "????????",
@@ -1598,7 +1796,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -1614,7 +1814,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -1630,7 +1832,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -1646,7 +1850,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "TINYMUSHROOM",
@@ -1662,7 +1868,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Un petit champignon assez rare.\\nIl est plutôt populaire parmi\\ncertains fans dévoués.",
+      "french": "Petit Champi"
     },
     {
       "english": "BIG MUSHROOM",
@@ -1678,7 +1886,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Un gros champignon assez rare.\\nIl est plutôt populaire parmi\\ncertains fans dévoués.",
+      "french": "Gros Champi"
     },
     {
       "english": "????????",
@@ -1694,7 +1904,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "PEARL",
@@ -1710,7 +1922,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une petite perle qui brille d'une\\njolie couleur argent.\\nPeut être vendue à bas prix.",
+      "french": "Perle"
     },
     {
       "english": "BIG PEARL",
@@ -1726,7 +1940,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une grosse perle qui brille d'une\\njolie couleur argent.\\nPeut être vendue à bon prix.",
+      "french": "Grande Perle"
     },
     {
       "english": "STARDUST",
@@ -1742,7 +1958,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Sable rouge ravissant,\\naux grains très fins.\\nPeut être vendu à bon prix.",
+      "french": "Poussière Étoile"
     },
     {
       "english": "STAR PIECE",
@@ -1758,7 +1976,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Fragment de gemme qui\\nbrille d'un éclat rouge.\\nPeut se vendre à bon prix.",
+      "french": "Morceau d'Étoile"
     },
     {
       "english": "NUGGET",
@@ -1774,7 +1994,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Pépite d'or pur qui\\nbrille magnifiquement.\\nPeut être vendue à bon prix.",
+      "french": "Pépite"
     },
     {
       "english": "HEART SCALE",
@@ -1790,7 +2012,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une jolie écaille en forme de cœur\\nqui est très rare. Elle brille\\nlégèrement d'un éclat arc-en-ciel.",
+      "french": "Écaille Cœur"
     },
     {
       "english": "????????",
@@ -1806,7 +2030,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -1822,7 +2048,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -1838,7 +2066,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -1854,7 +2084,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -1870,7 +2102,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -1886,7 +2120,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -1902,7 +2138,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -1918,7 +2156,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -1934,7 +2174,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "ORANGE MAIL",
@@ -1950,7 +2192,9 @@
       "fieldUseFunc": "FieldUseFunc_Mail",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "A piece of MAIL featuring a cute\\nZIGZAGOON print.\\nIt is to be held by a POKéMON.",
+      "french": "ORANGE MAIL"
     },
     {
       "english": "HARBOR MAIL",
@@ -1966,7 +2210,9 @@
       "fieldUseFunc": "FieldUseFunc_Mail",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 1
+      "secondaryId": 1,
+      "description_french": "A piece of MAIL featuring a cute\\nWINGULL print.\\nIt is to be held by a POKéMON.",
+      "french": "HARBOR MAIL"
     },
     {
       "english": "GLITTER MAIL",
@@ -1982,7 +2228,9 @@
       "fieldUseFunc": "FieldUseFunc_Mail",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 2
+      "secondaryId": 2,
+      "description_french": "A piece of MAIL featuring a cute\\nPIKACHU print.\\nIt is to be held by a POKéMON.",
+      "french": "GLITTER MAIL"
     },
     {
       "english": "MECH MAIL",
@@ -1998,7 +2246,9 @@
       "fieldUseFunc": "FieldUseFunc_Mail",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 3
+      "secondaryId": 3,
+      "description_french": "A piece of MAIL featuring a cute\\nMAGNEMITE print.\\nIt is to be held by a POKéMON.",
+      "french": "MECH MAIL"
     },
     {
       "english": "WOOD MAIL",
@@ -2014,7 +2264,9 @@
       "fieldUseFunc": "FieldUseFunc_Mail",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 4
+      "secondaryId": 4,
+      "description_french": "A piece of MAIL featuring a cute\\nSLAKOTH print.\\nIt is to be held by a POKéMON.",
+      "french": "WOOD MAIL"
     },
     {
       "english": "WAVE MAIL",
@@ -2030,7 +2282,9 @@
       "fieldUseFunc": "FieldUseFunc_Mail",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 5
+      "secondaryId": 5,
+      "description_french": "A piece of MAIL featuring a cute\\nWAILMER print.\\nIt is to be held by a POKéMON.",
+      "french": "WAVE MAIL"
     },
     {
       "english": "BEAD MAIL",
@@ -2046,7 +2300,9 @@
       "fieldUseFunc": "FieldUseFunc_Mail",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 6
+      "secondaryId": 6,
+      "description_french": "A piece of MAIL to be held by a\\nPOKéMON. It will bear the print of\\nthe POKéMON holding it.",
+      "french": "BEAD MAIL"
     },
     {
       "english": "SHADOW MAIL",
@@ -2062,7 +2318,9 @@
       "fieldUseFunc": "FieldUseFunc_Mail",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 7
+      "secondaryId": 7,
+      "description_french": "A piece of MAIL featuring a cute\\nDUSKULL print.\\nIt is to be held by a POKéMON.",
+      "french": "SHADOW MAIL"
     },
     {
       "english": "TROPIC MAIL",
@@ -2078,7 +2336,9 @@
       "fieldUseFunc": "FieldUseFunc_Mail",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 8
+      "secondaryId": 8,
+      "description_french": "A piece of MAIL featuring a cute\\nBELLOSSOM print.\\nIt is to be held by a POKéMON.",
+      "french": "TROPIC MAIL"
     },
     {
       "english": "DREAM MAIL",
@@ -2094,7 +2354,9 @@
       "fieldUseFunc": "FieldUseFunc_Mail",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 9
+      "secondaryId": 9,
+      "description_french": "A piece of MAIL to be held by a\\nPOKéMON. It will bear the print of\\nthe POKéMON holding it.",
+      "french": "DREAM MAIL"
     },
     {
       "english": "FAB MAIL",
@@ -2110,7 +2372,9 @@
       "fieldUseFunc": "FieldUseFunc_Mail",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 10
+      "secondaryId": 10,
+      "description_french": "A piece of MAIL featuring a\\ngorgeous, extravagant print.\\nIt is to be held by a POKéMON.",
+      "french": "FAB MAIL"
     },
     {
       "english": "RETRO MAIL",
@@ -2126,7 +2390,9 @@
       "fieldUseFunc": "FieldUseFunc_Mail",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 11
+      "secondaryId": 11,
+      "description_french": "A piece of MAIL featuring a print\\nof three cute POKéMON.\\nIt is to be held by a POKéMON.",
+      "french": "RETRO MAIL"
     },
     {
       "english": "CHERI BERRY",
@@ -2142,7 +2408,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Utilisée ou tenue\\ncette Baie soigne la paralysie.",
+      "french": "Baie Ceriz"
     },
     {
       "english": "CHESTO BERRY",
@@ -2158,7 +2426,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Utilisée ou tenue,\\ncette réveille les Pokémon endormis.",
+      "french": "Baie Maron"
     },
     {
       "english": "PECHA BERRY",
@@ -2174,7 +2444,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Utilisée ou tenue,\\ncette Baie soigne du poison.",
+      "french": "Baie Pêcha"
     },
     {
       "english": "RAWST BERRY",
@@ -2190,7 +2462,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Utilisée ou tenue,\\ncette Baie soigne une brûlure.",
+      "french": "Baie Fraive"
     },
     {
       "english": "ASPEAR BERRY",
@@ -2206,7 +2480,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Utilisée ou tenue,\\ncette Baie dégèle les Pokémon.",
+      "french": "Baie Willia"
     },
     {
       "english": "LEPPA BERRY",
@@ -2222,7 +2498,9 @@
       "fieldUseFunc": "FieldUseFunc_Ether",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Ether",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Utilisée ou tenue\\ncette Baie restaure 10 PP\\nd'une capacité.",
+      "french": "Baie Mepo"
     },
     {
       "english": "ORAN BERRY",
@@ -2238,7 +2516,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Utilisée ou tenue,\\ncette Baie restaure 10 PV.",
+      "french": "Baie Oran"
     },
     {
       "english": "PERSIM BERRY",
@@ -2254,7 +2534,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Utilisée ou tenue,\\ncette Baie soigne la confusion.",
+      "french": "Baie Kika"
     },
     {
       "english": "LUM BERRY",
@@ -2270,7 +2552,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Utilisée ou tenue,\\ncette Baie soigne tous\\nles problèmes de statut.",
+      "french": "Baie Prine"
     },
     {
       "english": "SITRUS BERRY",
@@ -2286,7 +2570,9 @@
       "fieldUseFunc": "FieldUseFunc_Medicine",
       "battleUsage": 1,
       "battleUseFunc": "BattleUseFunc_Medicine",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Utilisée ou tenue,\\ncette Baie restaure 30 PV.",
+      "french": "Baie Sitrus"
     },
     {
       "english": "FIGY BERRY",
@@ -2302,7 +2588,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Objet tenu qui restaure les PV.\\nPeut rendre confus.",
+      "french": "Baie Figuy"
     },
     {
       "english": "WIKI BERRY",
@@ -2318,7 +2606,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Objet tenu qui restaure les PV.\\nPeut rendre confus.",
+      "french": "Baie Wiki"
     },
     {
       "english": "MAGO BERRY",
@@ -2334,7 +2624,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Objet tenu qui restaure les PV.\\nPeut rendre confus.",
+      "french": "Baie Mago"
     },
     {
       "english": "AGUAV BERRY",
@@ -2350,7 +2642,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Objet tenu qui restaure les PV.\\nPeut rendre confus.",
+      "french": "Baie Gowav"
     },
     {
       "english": "IAPAPA BERRY",
@@ -2366,7 +2660,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Objet tenu qui restaure les PV.\\nPeut rendre confus.",
+      "french": "Baie Papaya"
     },
     {
       "english": "RAZZ BERRY",
@@ -2382,7 +2678,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Peut être réduite en poudre\\npour préparer des médicaments.",
+      "french": "Baie Framby"
     },
     {
       "english": "BLUK BERRY",
@@ -2398,7 +2696,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Peut être réduite en poudre\\npour préparer des médicaments.",
+      "french": "Baie Remu"
     },
     {
       "english": "NANAB BERRY",
@@ -2414,7 +2714,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Peut être réduite en poudre\\npour préparer des médicaments.",
+      "french": "Baie Nanab"
     },
     {
       "english": "WEPEAR BERRY",
@@ -2430,7 +2732,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Peut être réduite en poudre\\npour préparer des médicaments.",
+      "french": "Baie Repoi"
     },
     {
       "english": "PINAP BERRY",
@@ -2446,7 +2750,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Peut être réduite en poudre\\npour préparer des médicaments.",
+      "french": "Baie Nanana"
     },
     {
       "english": "POMEG BERRY",
@@ -2462,7 +2768,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Peut être réduite en poudre\\npour préparer des médicaments.",
+      "french": "Baie Grena"
     },
     {
       "english": "KELPSY BERRY",
@@ -2478,7 +2786,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Peut être réduite en poudre\\npour préparer des médicaments.",
+      "french": "Baie Alga"
     },
     {
       "english": "QUALOT BERRY",
@@ -2494,7 +2804,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Peut être réduite en poudre\\npour préparer des médicaments.",
+      "french": "Baie Qualot"
     },
     {
       "english": "HONDEW BERRY",
@@ -2510,7 +2822,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Peut être réduite en poudre\\npour préparer des médicaments.",
+      "french": "Baie Lonme"
     },
     {
       "english": "GREPA BERRY",
@@ -2526,7 +2840,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Peut être réduite en poudre\\npour préparer des médicaments.",
+      "french": "Baie Résin"
     },
     {
       "english": "TAMATO BERRY",
@@ -2542,7 +2858,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Peut être réduite en poudre\\npour préparer des médicaments.",
+      "french": "Baie Tamato"
     },
     {
       "english": "CORNN BERRY",
@@ -2558,7 +2876,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Peut être réduite en poudre\\npour préparer des médicaments.",
+      "french": "Baie Siam"
     },
     {
       "english": "MAGOST BERRY",
@@ -2574,7 +2894,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Peut être réduite en poudre\\npour préparer des médicaments.",
+      "french": "Baie Mangou"
     },
     {
       "english": "RABUTA BERRY",
@@ -2590,7 +2912,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Peut être réduite en poudre\\npour préparer des médicaments.",
+      "french": "Baie Rabuta"
     },
     {
       "english": "NOMEL BERRY",
@@ -2606,7 +2930,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Peut être réduite en poudre\\npour préparer des médicaments.",
+      "french": "Baie Tronci"
     },
     {
       "english": "SPELON BERRY",
@@ -2622,7 +2948,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Peut être réduite en poudre\\npour préparer des médicaments.",
+      "french": "Baie Kiwan"
     },
     {
       "english": "PAMTRE BERRY",
@@ -2638,7 +2966,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Peut être réduite en poudre\\npour préparer des médicaments.",
+      "french": "Baie Palma"
     },
     {
       "english": "WATMEL BERRY",
@@ -2654,7 +2984,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Peut être réduite en poudre\\npour préparer des médicaments.",
+      "french": "Baie Stekpa"
     },
     {
       "english": "DURIN BERRY",
@@ -2670,7 +3002,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Peut être réduite en poudre\\npour préparer des médicaments.",
+      "french": "Baie Durin"
     },
     {
       "english": "BELUE BERRY",
@@ -2686,7 +3020,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Peut être réduite en poudre\\npour préparer des médicaments.",
+      "french": "Baie Myrte"
     },
     {
       "english": "LIECHI BERRY",
@@ -2702,7 +3038,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Tenue, cette Baie monte\\nl'Attaque en cas de besoin.",
+      "french": "Baie Lichii"
     },
     {
       "english": "GANLON BERRY",
@@ -2718,7 +3056,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Tenue, cette Baie monte\\nla Défense en cas de besoin.",
+      "french": "Baie Lingan"
     },
     {
       "english": "SALAC BERRY",
@@ -2734,7 +3074,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Tenue, cette Baie monte\\nla Vitesse en cas de besoin.",
+      "french": "Baie Sailak"
     },
     {
       "english": "PETAYA BERRY",
@@ -2750,7 +3092,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Tenue, cette Baie monte\\nl'Attaque Spé. en cas de besoin.",
+      "french": "Baie Pitaye"
     },
     {
       "english": "APICOT BERRY",
@@ -2766,7 +3110,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Tenue, cette Baie monte\\nla Défense Spé. en cas de besoin.",
+      "french": "Baie Abriko"
     },
     {
       "english": "LANSAT BERRY",
@@ -2782,7 +3128,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Tenue, cette Baie monte le taux\\nde critiques en cas de besoin.",
+      "french": "Baie Lansat"
     },
     {
       "english": "STARF BERRY",
@@ -2798,7 +3146,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Tenue, cette Baie monte beaucoup\\nune des stats en cas de besoin.",
+      "french": "Baie Frista"
     },
     {
       "english": "ENIGMA BERRY",
@@ -2814,7 +3164,9 @@
       "fieldUseFunc": "ItemUseOutOfBattle_EnigmaBerry",
       "battleUsage": 1,
       "battleUseFunc": "ItemUseInBattle_EnigmaBerry",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Peut être réduite en poudre\\npour préparer des médicaments.",
+      "french": "Baie Enigma"
     },
     {
       "english": "????????",
@@ -2830,7 +3182,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -2846,7 +3200,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -2862,7 +3218,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "BRIGHTPOWDER",
@@ -2878,7 +3236,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nIt casts a tricky glare that lowers\\nthe opponent's accuracy.",
+      "french": "BRIGHTPOWDER"
     },
     {
       "english": "WHITE HERB",
@@ -2894,7 +3254,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nIt restores any lowered stat in\\nbattle. It can be used only once.",
+      "french": "WHITE HERB"
     },
     {
       "english": "MACHO BRACE",
@@ -2910,7 +3272,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nIt promotes strong growth but\\nlowers SPEED while it is held.",
+      "french": "MACHO BRACE"
     },
     {
       "english": "EXP. SHARE",
@@ -2926,7 +3290,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Objet à tenir. Le porteur reçoit\\nune partie des points Exp. du\\ncombat sans avoir à combattre.",
+      "french": "Multi Exp"
     },
     {
       "english": "QUICK CLAW",
@@ -2942,7 +3308,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nA light and sharp claw. The holder\\nmay be able to strike first.",
+      "french": "QUICK CLAW"
     },
     {
       "english": "SOOTHE BELL",
@@ -2958,7 +3326,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nA bell with a comforting chime that\\nmakes the holder calm and friendly.",
+      "french": "SOOTHE BELL"
     },
     {
       "english": "MENTAL HERB",
@@ -2974,7 +3344,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nIt snaps the holder out of\\ninfatuation. It can be used once.",
+      "french": "MENTAL HERB"
     },
     {
       "english": "CHOICE BAND",
@@ -2990,7 +3362,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nIt powers up one move, which\\nbecomes the only usable one.",
+      "french": "CHOICE BAND"
     },
     {
       "english": "KING'S ROCK",
@@ -3006,7 +3380,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nIt may cause the foe to flinch\\nupon taking damage.",
+      "french": "KING'S ROCK"
     },
     {
       "english": "SILVERPOWDER",
@@ -3022,7 +3398,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nA shiny silver powder that boosts\\nthe power of BUG-type moves.",
+      "french": "SILVERPOWDER"
     },
     {
       "english": "AMULET COIN",
@@ -3038,7 +3416,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nIt doubles the battle money if the\\nholding POKéMON takes part.",
+      "french": "AMULET COIN"
     },
     {
       "english": "CLEANSE TAG",
@@ -3054,7 +3434,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nIt repels wild POKéMON if the\\nholder is first in the party.",
+      "french": "CLEANSE TAG"
     },
     {
       "english": "SOUL DEW",
@@ -3070,7 +3452,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An orb to be held by a LATIOS or\\nLATIAS. It raises the SP. ATK\\nand SP. DEF stats.",
+      "french": "SOUL DEW"
     },
     {
       "english": "DEEPSEATOOTH",
@@ -3086,7 +3470,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nA fang that gleams a sharp silver.\\nIt raises the SP. ATK stat.",
+      "french": "DEEPSEATOOTH"
     },
     {
       "english": "DEEPSEASCALE",
@@ -3102,7 +3488,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nA scale that shines a faint pink.\\nIt raises the SP. DEF stat.",
+      "french": "DEEPSEASCALE"
     },
     {
       "english": "SMOKE BALL",
@@ -3118,7 +3506,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nThe holding POKéMON can flee from\\nany wild POKéMON for sure.",
+      "french": "SMOKE BALL"
     },
     {
       "english": "EVERSTONE",
@@ -3134,7 +3524,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nThe holding POKéMON is prevented\\nfrom evolving.",
+      "french": "EVERSTONE"
     },
     {
       "english": "FOCUS BAND",
@@ -3150,7 +3542,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nThe holding POKéMON may endure an\\nattack, leaving just 1 HP.",
+      "french": "FOCUS BAND"
     },
     {
       "english": "LUCKY EGG",
@@ -3166,7 +3560,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nAn egg filled with happiness that\\nearns extra EXP. points in battle.",
+      "french": "LUCKY EGG"
     },
     {
       "english": "SCOPE LENS",
@@ -3182,7 +3578,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nA lens that boosts the critical-hit\\nratio of the holding POKéMON.",
+      "french": "SCOPE LENS"
     },
     {
       "english": "METAL COAT",
@@ -3198,7 +3596,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nA special metallic film that boosts\\nthe power of STEEL-type moves.",
+      "french": "METAL COAT"
     },
     {
       "english": "LEFTOVERS",
@@ -3214,7 +3614,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nThe holding POKéMON gradually\\nregains HP during battle.",
+      "french": "LEFTOVERS"
     },
     {
       "english": "DRAGON SCALE",
@@ -3230,7 +3632,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "A thick and tough scale.\\nA DRAGON-type POKéMON may be\\nholding it.",
+      "french": "DRAGON SCALE"
     },
     {
       "english": "LIGHT BALL",
@@ -3246,7 +3650,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An orb to be held by a PIKACHU\\nthat raises the SP. ATK stat.\\nTouching it may cause a shock.",
+      "french": "LIGHT BALL"
     },
     {
       "english": "SOFT SAND",
@@ -3262,7 +3668,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nA loose, silky sand that boosts the\\npower of GROUND-type moves.",
+      "french": "SOFT SAND"
     },
     {
       "english": "HARD STONE",
@@ -3278,7 +3686,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nAn unbreakable stone that boosts\\nthe power of ROCK-type moves.",
+      "french": "HARD STONE"
     },
     {
       "english": "MIRACLE SEED",
@@ -3294,7 +3704,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nA seed imbued with life that boosts\\nthe power of GRASS-type moves.",
+      "french": "MIRACLE SEED"
     },
     {
       "english": "BLACKGLASSES",
@@ -3310,7 +3722,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nA shady-looking pair of glasses\\nthat boosts DARK-type moves.",
+      "french": "BLACKGLASSES"
     },
     {
       "english": "BLACK BELT",
@@ -3326,7 +3740,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nA belt that boosts determination\\nand FIGHTING-type moves.",
+      "french": "BLACK BELT"
     },
     {
       "english": "MAGNET",
@@ -3342,7 +3758,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nA powerful magnet that boosts the\\npower of ELECTRIC-type moves.",
+      "french": "MAGNET"
     },
     {
       "english": "MYSTIC WATER",
@@ -3358,7 +3776,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nA teardrop-shaped gem that boosts\\nthe power of WATER-type moves.",
+      "french": "MYSTIC WATER"
     },
     {
       "english": "SHARP BEAK",
@@ -3374,7 +3794,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nA long, sharp beak that boosts the\\npower of FLYING-type moves.",
+      "french": "SHARP BEAK"
     },
     {
       "english": "POISON BARB",
@@ -3390,7 +3812,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nA small, poisonous barb that boosts\\nthe power of POISON-type moves.",
+      "french": "POISON BARB"
     },
     {
       "english": "NEVERMELTICE",
@@ -3406,7 +3830,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nA piece of ice that repels heat\\nand boosts ICE-type moves.",
+      "french": "NEVERMELTICE"
     },
     {
       "english": "SPELL TAG",
@@ -3422,7 +3848,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nA sinister, eerie tag that boosts\\nGHOST-type moves.",
+      "french": "SPELL TAG"
     },
     {
       "english": "TWISTEDSPOON",
@@ -3438,7 +3866,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nA spoon imbued with telekinetic\\npower boosts PSYCHIC-type moves.",
+      "french": "TWISTEDSPOON"
     },
     {
       "english": "CHARCOAL",
@@ -3454,7 +3884,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nA combustible fuel that boosts the\\npower of FIRE-type moves.",
+      "french": "CHARCOAL"
     },
     {
       "english": "DRAGON FANG",
@@ -3470,7 +3902,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nA hard and sharp fang that boosts\\nthe power of DRAGON-type moves.",
+      "french": "DRAGON FANG"
     },
     {
       "english": "SILK SCARF",
@@ -3486,7 +3920,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nA sumptuous scarf that boosts the\\npower of NORMAL-type moves.",
+      "french": "SILK SCARF"
     },
     {
       "english": "UP-GRADE",
@@ -3502,7 +3938,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "A transparent device filled with all\\nsorts of data.\\nIt is made by SILPH CO.",
+      "french": "UP-GRADE"
     },
     {
       "english": "SHELL BELL",
@@ -3518,7 +3956,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nThe holding POKéMON regains some\\nHP upon striking the foe.",
+      "french": "SHELL BELL"
     },
     {
       "english": "SEA INCENSE",
@@ -3534,7 +3974,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nIt slightly boosts the power of\\nWATER-type moves.",
+      "french": "SEA INCENSE"
     },
     {
       "english": "LAX INCENSE",
@@ -3550,7 +3992,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nIts tricky aroma slightly reduces\\nthe foe's accuracy.",
+      "french": "LAX INCENSE"
     },
     {
       "english": "LUCKY PUNCH",
@@ -3566,7 +4010,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "A glove to be held by a CHANSEY.\\nIt raises CHANSEY's critical-hit\\nratio.",
+      "french": "LUCKY PUNCH"
     },
     {
       "english": "METAL POWDER",
@@ -3582,7 +4028,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "A fine, hard powder to be held by\\na DITTO.\\nIt raises DITTO's DEFENSE stat.",
+      "french": "METAL POWDER"
     },
     {
       "english": "THICK CLUB",
@@ -3598,7 +4046,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "A hard bone of some sort to be\\nheld by a CUBONE or MAROWAK.\\nIt raises the ATTACK stat.",
+      "french": "THICK CLUB"
     },
     {
       "english": "STICK",
@@ -3614,7 +4064,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "A stick of leek to be held by a\\nFARFETCH'D. It raises FARFETCH'D's\\ncritical-hit ratio.",
+      "french": "STICK"
     },
     {
       "english": "????????",
@@ -3630,7 +4082,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -3646,7 +4100,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -3662,7 +4118,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -3678,7 +4136,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -3694,7 +4154,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -3710,7 +4172,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -3726,7 +4190,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -3742,7 +4208,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -3758,7 +4226,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -3774,7 +4244,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -3790,7 +4262,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -3806,7 +4280,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -3822,7 +4298,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -3838,7 +4316,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -3854,7 +4334,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -3870,7 +4352,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -3886,7 +4370,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -3902,7 +4388,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -3918,7 +4406,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -3934,7 +4424,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -3950,7 +4442,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -3966,7 +4460,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -3982,7 +4478,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -3998,7 +4496,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -4014,7 +4514,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -4030,7 +4532,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -4046,7 +4550,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -4062,7 +4568,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "RED SCARF",
@@ -4078,7 +4586,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nIt boosts the holding POKéMON's\\nCOOL condition in CONTESTS.",
+      "french": "RED SCARF"
     },
     {
       "english": "BLUE SCARF",
@@ -4094,7 +4604,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nIt boosts the holding POKéMON's\\nBEAUTY condition in CONTESTS.",
+      "french": "BLUE SCARF"
     },
     {
       "english": "PINK SCARF",
@@ -4110,7 +4622,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nIt boosts the holding POKéMON's\\nCUTE condition in CONTESTS.",
+      "french": "PINK SCARF"
     },
     {
       "english": "GREEN SCARF",
@@ -4126,7 +4640,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nIt boosts the holding POKéMON's\\nSMART condition in CONTESTS.",
+      "french": "GREEN SCARF"
     },
     {
       "english": "YELLOW SCARF",
@@ -4142,7 +4658,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An item to be held by a POKéMON.\\nIt boosts the holding POKéMON's\\nTOUGH condition in CONTESTS.",
+      "french": "YELLOW SCARF"
     },
     {
       "english": "MACH BIKE",
@@ -4158,7 +4676,9 @@
       "fieldUseFunc": "FieldUseFunc_Bike",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "A folding bicycle that is at least\\ntwice as fast as walking.",
+      "french": "MACH BIKE"
     },
     {
       "english": "COIN CASE",
@@ -4174,7 +4694,9 @@
       "fieldUseFunc": "FieldUseFunc_CoinCase",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "A case for holding COINS obtained\\nat the GAME CORNER.\\nIt holds up to 9,999 COINS.",
+      "french": "COIN CASE"
     },
     {
       "english": "ITEMFINDER",
@@ -4190,7 +4712,9 @@
       "fieldUseFunc": "ItemUseOutOfBattle_Itemfinder",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "A device used for finding items.\\nIf there is a hidden item nearby\\nwhen it is used, it emits a signal.",
+      "french": "ITEMFINDER"
     },
     {
       "english": "OLD ROD",
@@ -4206,7 +4730,9 @@
       "fieldUseFunc": "FieldUseFunc_Rod",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": "OLD_ROD"
+      "secondaryId": "OLD_ROD",
+      "description_french": "An old and beat-up fishing rod.\\nUse it by any body of water to \\nfish for wild POKéMON.",
+      "french": "OLD ROD"
     },
     {
       "english": "GOOD ROD",
@@ -4222,7 +4748,9 @@
       "fieldUseFunc": "FieldUseFunc_Rod",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": "GOOD_ROD"
+      "secondaryId": "GOOD_ROD",
+      "description_french": "A new, good-quality fishing rod.\\nUse it by any body of water to \\nfish for wild POKéMON.",
+      "french": "GOOD ROD"
     },
     {
       "english": "SUPER ROD",
@@ -4238,7 +4766,9 @@
       "fieldUseFunc": "FieldUseFunc_Rod",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": "SUPER_ROD"
+      "secondaryId": "SUPER_ROD",
+      "description_french": "An awesome, high-tech fishing rod.\\nUse it by any body of water to fish\\nfor wild POKéMON.",
+      "french": "SUPER ROD"
     },
     {
       "english": "S.S. TICKET",
@@ -4254,7 +4784,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "The ticket required for sailing on\\nthe ferry S.S. ANNE.\\nIt has a drawing of a ship on it.",
+      "french": "S.S. TICKET"
     },
     {
       "english": "CONTEST PASS",
@@ -4270,7 +4802,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "The pass required for entering\\nPOKéMON CONTESTS. It has a\\ndrawing of an award ribbon on it.",
+      "french": "CONTEST PASS"
     },
     {
       "english": "????????",
@@ -4286,7 +4820,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "WAILMER PAIL",
@@ -4302,7 +4838,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "A nifty watering pail.\\nUse it to promote strong growth in\\nBERRIES planted in soft soil.",
+      "french": "WAILMER PAIL"
     },
     {
       "english": "DEVON GOODS",
@@ -4318,7 +4856,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "A package that contains mechanical\\nparts of some sort made by the\\nDEVON CORPORATION.",
+      "french": "DEVON GOODS"
     },
     {
       "english": "SOOT SACK",
@@ -4334,7 +4874,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "A sack used to collect volcanic\\nash automatically during walks\\nover deep ash.",
+      "french": "SOOT SACK"
     },
     {
       "english": "BASEMENT KEY",
@@ -4350,7 +4892,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "The key to NEW MAUVILLE, which\\nwas constructed beneath MAUVILLE\\nCITY.",
+      "french": "BASEMENT KEY"
     },
     {
       "english": "ACRO BIKE",
@@ -4366,7 +4910,9 @@
       "fieldUseFunc": "FieldUseFunc_Bike",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 1
+      "secondaryId": 1,
+      "description_french": "A folding bicycle that is capable\\nof stunts like jumps and wheelies.",
+      "french": "ACRO BIKE"
     },
     {
       "english": "{POKEBLOCK} CASE",
@@ -4382,7 +4928,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "A case for holding {POKEBLOCK}S made\\nwith a BERRY BLENDER. It releases\\none {POKEBLOCK} when shaken.",
+      "french": "{POKEBLOCK} CASE"
     },
     {
       "english": "LETTER",
@@ -4398,7 +4946,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An extremely important letter to\\nSTEVEN from the PRESIDENT of the\\nDEVON CORPORATION.",
+      "french": "LETTER"
     },
     {
       "english": "EON TICKET",
@@ -4414,7 +4964,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 1
+      "secondaryId": 1,
+      "description_french": "The ticket required for sailing on a\\nferry to a distant southern island.\\nIt features a drawing of an island.",
+      "french": "EON TICKET"
     },
     {
       "english": "RED ORB",
@@ -4430,7 +4982,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An orb that glows red.\\nIt is said to contain an incredible\\npower from ancient times.",
+      "french": "RED ORB"
     },
     {
       "english": "BLUE ORB",
@@ -4446,7 +5000,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "An orb that glows blue.\\nIt is said to contain an incredible\\npower from ancient times.",
+      "french": "BLUE ORB"
     },
     {
       "english": "SCANNER",
@@ -4462,7 +5018,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "A device used to search for\\nlife-forms in water.\\nIt looks too difficult to use.",
+      "french": "SCANNER"
     },
     {
       "english": "GO-GOGGLES",
@@ -4478,7 +5036,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "A pair of protective goggles.\\nThey enable a TRAINER to travel\\nthrough even desert sandstorms.",
+      "french": "GO-GOGGLES"
     },
     {
       "english": "METEORITE",
@@ -4494,7 +5054,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "A meteorite that fell from space\\nonto MT. MOON long ago.\\nIt is very lumpy and hard.",
+      "french": "METEORITE"
     },
     {
       "english": "RM. 1 KEY",
@@ -4510,7 +5072,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "A key that opens the door to Room\\n1 inside the ABANDONED SHIP.\\nIt is old and looks easily broken.",
+      "french": "RM. 1 KEY"
     },
     {
       "english": "RM. 2 KEY",
@@ -4526,7 +5090,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "A key that opens the door to Room\\n2 inside the ABANDONED SHIP.\\nIt is old and looks easily broken.",
+      "french": "RM. 2 KEY"
     },
     {
       "english": "RM. 4 KEY",
@@ -4542,7 +5108,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "A key that opens the door to Room\\n4 inside the ABANDONED SHIP.\\nIt is old and looks easily broken.",
+      "french": "RM. 4 KEY"
     },
     {
       "english": "RM. 6 KEY",
@@ -4558,7 +5126,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "A key that opens the door to Room\\n6 inside the ABANDONED SHIP.\\nIt is old and looks easily broken.",
+      "french": "RM. 6 KEY"
     },
     {
       "english": "STORAGE KEY",
@@ -4574,7 +5144,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "A key that opens the storage hold\\ninside the ABANDONED SHIP.\\nIt is old and looks easily broken.",
+      "french": "STORAGE KEY"
     },
     {
       "english": "ROOT FOSSIL",
@@ -4590,7 +5162,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "A fossil of an ancient, seafloor-\\ndwelling POKéMON. It appears to be\\npart of a plant root.",
+      "french": "ROOT FOSSIL"
     },
     {
       "english": "CLAW FOSSIL",
@@ -4606,7 +5180,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "A fossil of an ancient, seafloor-\\ndwelling POKéMON. It appears to be\\npart of a claw.",
+      "french": "CLAW FOSSIL"
     },
     {
       "english": "DEVON SCOPE",
@@ -4622,7 +5198,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Un appareil Devon qui signale\\nles Pokémons invisibles.",
+      "french": "Devon Scope"
     },
     {
       "english": "TM01",
@@ -4639,7 +5217,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "FocusPunch"
+      "moveId": "FocusPunch",
+      "description_french": "An extremely powerful attack.\\nHowever, if the user is hit before\\nusing the move, they will flinch.",
+      "french": "TM01"
     },
     {
       "english": "TM02",
@@ -4656,7 +5236,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "DragonClaw"
+      "moveId": "DragonClaw",
+      "description_french": "Sharp, huge claws hook and slash\\nthe foe quickly and with great\\npower.",
+      "french": "TM02"
     },
     {
       "english": "TM03",
@@ -4673,7 +5255,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "WaterPulse"
+      "moveId": "WaterPulse",
+      "description_french": "The foe is hit with a pulsing blast\\nof water. It may also confuse the\\ntarget.",
+      "french": "TM03"
     },
     {
       "english": "TM04",
@@ -4690,7 +5274,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "CalmMind"
+      "moveId": "CalmMind",
+      "description_french": "The user calms its spirit and\\nfocuses its mind to raise its\\nSP. ATK and SP. DEF stats.",
+      "french": "TM04"
     },
     {
       "english": "TM05",
@@ -4707,7 +5293,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Roar"
+      "moveId": "Roar",
+      "description_french": "A savage roar that causes the foe\\nto switch out of battle. In the\\nwild, ROAR ends the battle.",
+      "french": "TM05"
     },
     {
       "english": "TM06",
@@ -4724,7 +5312,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Toxic"
+      "moveId": "Toxic",
+      "description_french": "A move that leaves the foe badly\\npoisoned. Its poison damage worsens\\nevery turn.",
+      "french": "TM06"
     },
     {
       "english": "TM07",
@@ -4741,7 +5331,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Hail"
+      "moveId": "Hail",
+      "description_french": "Summons a hailstorm that lasts for\\nfive turns. The hailstorm damages\\nall types except the ICE type.",
+      "french": "TM07"
     },
     {
       "english": "TM08",
@@ -4758,7 +5350,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "BulkUp"
+      "moveId": "BulkUp",
+      "description_french": "The user tightens all its muscles\\nand bulks up, boosting both its\\nATTACK and DEFENSE stats.",
+      "french": "TM08"
     },
     {
       "english": "TM09",
@@ -4775,7 +5369,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "BulletSeed"
+      "moveId": "BulletSeed",
+      "description_french": "The user shoots seeds at the foe\\nin rapid succession. Two to five\\nseeds are shot at once.",
+      "french": "TM09"
     },
     {
       "english": "TM10",
@@ -4792,7 +5388,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "HiddenPower"
+      "moveId": "HiddenPower",
+      "description_french": "A variable move that changes type\\nand power depending on the POKéMON\\nusing it.",
+      "french": "TM10"
     },
     {
       "english": "TM11",
@@ -4809,7 +5407,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "SunnyDay"
+      "moveId": "SunnyDay",
+      "description_french": "The weather is turned sunny for\\nfive turns. Over that time, FIRE-\\ntype moves are powered up.",
+      "french": "TM11"
     },
     {
       "english": "TM12",
@@ -4826,7 +5426,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Taunt"
+      "moveId": "Taunt",
+      "description_french": "A taunted foe may become enraged.\\nIt will then only be able to use\\nattack moves.",
+      "french": "TM12"
     },
     {
       "english": "TM13",
@@ -4843,7 +5445,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "IceBeam"
+      "moveId": "IceBeam",
+      "description_french": "An icy-cold beam is shot at the\\nfoe. It may leave the target\\nfrozen.",
+      "french": "TM13"
     },
     {
       "english": "TM14",
@@ -4860,7 +5464,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Blizzard"
+      "moveId": "Blizzard",
+      "description_french": "A vicious snow-and-wind attack that\\nstrikes all foes in battle. It may\\ncause freezing.",
+      "french": "TM14"
     },
     {
       "english": "TM15",
@@ -4877,7 +5483,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "HyperBeam"
+      "moveId": "HyperBeam",
+      "description_french": "A harsh attack that inflicts severe\\ndamage on the foe. However, the\\nuser must rest the next turn.",
+      "french": "TM15"
     },
     {
       "english": "TM16",
@@ -4894,7 +5502,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "LightScreen"
+      "moveId": "LightScreen",
+      "description_french": "A wall of light is created over\\nfive turns. It reduces damage from\\nSP. ATK attacks.",
+      "french": "TM16"
     },
     {
       "english": "TM17",
@@ -4911,7 +5521,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Protect"
+      "moveId": "Protect",
+      "description_french": "The user is completely protected\\nfrom attack in the turn it is used.\\nIt may fail if used in succession.",
+      "french": "TM17"
     },
     {
       "english": "TM18",
@@ -4928,7 +5540,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "RainDance"
+      "moveId": "RainDance",
+      "description_french": "A heavy rain is summoned for five\\nturns. Over that time, WATER-type\\nmoves are powered up.",
+      "french": "TM18"
     },
     {
       "english": "TM19",
@@ -4945,7 +5559,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "GigaDrain"
+      "moveId": "GigaDrain",
+      "description_french": "The user strikes the foe with\\ntentacles or roots, stealing the\\ntarget's HP and healing itself.",
+      "french": "TM19"
     },
     {
       "english": "TM20",
@@ -4962,7 +5578,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Safeguard"
+      "moveId": "Safeguard",
+      "description_french": "Protects the party with a shield\\nagainst all status problems over\\nfive turns.",
+      "french": "TM20"
     },
     {
       "english": "TM21",
@@ -4979,7 +5597,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Frustration"
+      "moveId": "Frustration",
+      "description_french": "This attack move grows more\\npowerful the more the POKéMON\\ndislikes its TRAINER.",
+      "french": "TM21"
     },
     {
       "english": "TM22",
@@ -4996,7 +5616,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "SolarBeam"
+      "moveId": "SolarBeam",
+      "description_french": "A 2-turn attack that uses the first\\nturn for absorbing sunlight, then\\nblasting the foe in the next turn.",
+      "french": "TM22"
     },
     {
       "english": "TM23",
@@ -5013,7 +5635,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "IronTail"
+      "moveId": "IronTail",
+      "description_french": "The foe is slammed with a sturdy\\ntail of steel. It may lower the\\ntarget's DEFENSE stat.",
+      "french": "TM23"
     },
     {
       "english": "TM24",
@@ -5030,7 +5654,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Thunderbolt"
+      "moveId": "Thunderbolt",
+      "description_french": "A massive jolt of electricity is\\nlaunched at the foe. It may cause\\nparalysis.",
+      "french": "TM24"
     },
     {
       "english": "TM25",
@@ -5047,7 +5673,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Thunder"
+      "moveId": "Thunder",
+      "description_french": "Strikes the foe with a huge\\nthunderbolt. It may cause\\nparalysis.",
+      "french": "TM25"
     },
     {
       "english": "TM26",
@@ -5064,7 +5692,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Earthquake"
+      "moveId": "Earthquake",
+      "description_french": "Causes an earthquake that strikes\\nall POKéMON in battle, excluding\\nthe user.",
+      "french": "TM26"
     },
     {
       "english": "TM27",
@@ -5081,7 +5711,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Return"
+      "moveId": "Return",
+      "description_french": "This attack move grows more\\npowerful the more the POKéMON\\nlikes its TRAINER.",
+      "french": "TM27"
     },
     {
       "english": "TM28",
@@ -5098,7 +5730,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Dig"
+      "moveId": "Dig",
+      "description_french": "A 2-turn attack in which the user\\ndigs underground, then strikes.\\nIt can be used to exit dungeons.",
+      "french": "TM28"
     },
     {
       "english": "TM29",
@@ -5115,7 +5749,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Psychic"
+      "moveId": "Psychic",
+      "description_french": "A powerful blast of telekinetic\\nenergy strikes the foe. It may\\nlower the target's SP. DEF stat.",
+      "french": "TM29"
     },
     {
       "english": "TM30",
@@ -5132,7 +5768,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "ShadowBall"
+      "moveId": "ShadowBall",
+      "description_french": "The foe is attacked with a shadowy\\nlump. It may lower the target's\\nSP. DEF stat.",
+      "french": "TM30"
     },
     {
       "english": "TM31",
@@ -5149,7 +5787,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "BrickBreak"
+      "moveId": "BrickBreak",
+      "description_french": "Strikes the foe with a rock-hard\\nfist, etc. It shatters barriers such\\nas REFLECT and LIGHT SCREEN.",
+      "french": "TM31"
     },
     {
       "english": "TM32",
@@ -5166,7 +5806,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "DoubleTeam"
+      "moveId": "DoubleTeam",
+      "description_french": "The user begins moving so quickly\\nthat it creates illusory copies to\\nraise its evasiveness.",
+      "french": "TM32"
     },
     {
       "english": "TM33",
@@ -5183,7 +5825,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Reflect"
+      "moveId": "Reflect",
+      "description_french": "A tough barrier is put up over five\\nturns. It reduces damage from\\nphysical attacks over that time.",
+      "french": "TM33"
     },
     {
       "english": "TM34",
@@ -5200,7 +5844,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "ShockWave"
+      "moveId": "ShockWave",
+      "description_french": "A rapid jolt of electricity strikes\\nthe foe. This attack is impossible\\nto evade.",
+      "french": "TM34"
     },
     {
       "english": "TM35",
@@ -5217,7 +5863,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Flamethrower"
+      "moveId": "Flamethrower",
+      "description_french": "The foe is roasted with a heavy\\nblast of fire. It may leave the\\ntarget with a burn.",
+      "french": "TM35"
     },
     {
       "english": "TM36",
@@ -5234,7 +5882,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "SludgeBomb"
+      "moveId": "SludgeBomb",
+      "description_french": "Toxic sludge is hurled at the foe\\nwith great force. It may also\\npoison the target.",
+      "french": "TM36"
     },
     {
       "english": "TM37",
@@ -5251,7 +5901,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Sandstorm"
+      "moveId": "Sandstorm",
+      "description_french": "Summons a sandstorm that lasts for\\nfive turns. It damages all types\\nexcept ROCK, GROUND, and STEEL.",
+      "french": "TM37"
     },
     {
       "english": "TM38",
@@ -5268,7 +5920,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "FireBlast"
+      "moveId": "FireBlast",
+      "description_french": "The foe is incinerated with an\\nintense flame. It may leave the\\ntarget with a burn.",
+      "french": "TM38"
     },
     {
       "english": "TM39",
@@ -5285,7 +5939,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "RockTomb"
+      "moveId": "RockTomb",
+      "description_french": "Boulders are hurled at the foe.\\nIt also lowers the target's SPEED\\nstat if it hits.",
+      "french": "TM39"
     },
     {
       "english": "TM40",
@@ -5302,7 +5958,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "AerialAce"
+      "moveId": "AerialAce",
+      "description_french": "An extremely fast attack against\\none target. It is impossible to\\nevade.",
+      "french": "TM40"
     },
     {
       "english": "TM41",
@@ -5319,7 +5977,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Torment"
+      "moveId": "Torment",
+      "description_french": "If enraged by this move, the target\\nbecomes incapable of using the same\\nmove twice in a row.",
+      "french": "TM41"
     },
     {
       "english": "TM42",
@@ -5336,7 +5996,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Facade"
+      "moveId": "Facade",
+      "description_french": "An attack move that becomes very\\npowerful if the user is poisoned,\\nburned, or paralyzed.",
+      "french": "TM42"
     },
     {
       "english": "TM43",
@@ -5353,7 +6015,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "SecretPower"
+      "moveId": "SecretPower",
+      "description_french": "An attack move that may have an\\nadditional effect depending on the\\nbattle terrain.",
+      "french": "TM43"
     },
     {
       "english": "TM44",
@@ -5370,7 +6034,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Rest"
+      "moveId": "Rest",
+      "description_french": "A move that makes the user fall\\nasleep over two turns to restore HP\\nand heal any status problems.",
+      "french": "TM44"
     },
     {
       "english": "TM45",
@@ -5387,7 +6053,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Attract"
+      "moveId": "Attract",
+      "description_french": "The foe, if it is the opposite\\ngender as the user, becomes\\ninfatuated and may not attack.",
+      "french": "TM45"
     },
     {
       "english": "TM46",
@@ -5404,7 +6072,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Thief"
+      "moveId": "Thief",
+      "description_french": "An attack that gives the user an\\nopportunity to steal the foe's hold\\nitem.",
+      "french": "TM46"
     },
     {
       "english": "TM47",
@@ -5421,7 +6091,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "SteelWing"
+      "moveId": "SteelWing",
+      "description_french": "The foe is struck with steel-hard\\nwings. It may also raise the user's\\nDEFENSE stat.",
+      "french": "TM47"
     },
     {
       "english": "TM48",
@@ -5438,7 +6110,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "SkillSwap"
+      "moveId": "SkillSwap",
+      "description_french": "A special power is transmitted to\\nthe foe, causing it to switch\\nabilities with the user.",
+      "french": "TM48"
     },
     {
       "english": "TM49",
@@ -5455,7 +6129,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Snatch"
+      "moveId": "Snatch",
+      "description_french": "A move that steals the effects of\\nany status-changing or healing move\\nthat the foe tries to use.",
+      "french": "TM49"
     },
     {
       "english": "TM50",
@@ -5472,7 +6148,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Overheat"
+      "moveId": "Overheat",
+      "description_french": "A maximum-power attack of great\\nferocity, but one that also sharply\\nreduces the user's SP. ATK stat.",
+      "french": "TM50"
     },
     {
       "english": "HM01",
@@ -5489,7 +6167,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Cut"
+      "moveId": "Cut",
+      "description_french": "Permet de couper des arbres et de l’herbe en dehors du combat.",
+      "french": "CS01"
     },
     {
       "english": "HM02",
@@ -5506,7 +6186,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Fly"
+      "moveId": "Fly",
+      "description_french": "Permet de voyager vers n'importe quelle ville connue.",
+      "french": "CS02"
     },
     {
       "english": "HM03",
@@ -5523,7 +6205,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Surf"
+      "moveId": "Surf",
+      "description_french": "Permet de naviguer sur l'eau.",
+      "french": "CS03"
     },
     {
       "english": "HM04",
@@ -5540,7 +6224,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Strength"
+      "moveId": "Strength",
+      "description_french": "Permet de déplacer des rochers lourds.",
+      "french": "CS04"
     },
     {
       "english": "HM05",
@@ -5557,7 +6243,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Flash"
+      "moveId": "Flash",
+      "description_french": "Éclaire les lieux sombres.",
+      "french": "CS05"
     },
     {
       "english": "HM06",
@@ -5574,7 +6262,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "RockSmash"
+      "moveId": "RockSmash",
+      "description_french": "Permet de détruire des rochers fissurés.",
+      "french": "CS06"
     },
     {
       "english": "HM07",
@@ -5591,7 +6281,9 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Waterfall"
+      "moveId": "Waterfall",
+      "description_french": "Permet de grimper une cascade.",
+      "french": "CS07"
     },
     {
       "english": "HM08",
@@ -5608,7 +6300,28 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0,
-      "moveId": "Dive"
+      "moveId": "Dive",
+      "description_french": "Permet de plonger sous l'eau.",
+      "french": "CS08"
+    }
+  ,
+    {
+      "english": "????????",
+      "itemId": "ITEM_NONE",
+      "price": 0,
+      "holdEffect": "HOLD_EFFECT_NONE",
+      "holdEffectParam": 0,
+      "description_english": "?????",
+      "importance": 0,
+      "registrability": 0,
+      "pocket": "POCKET_ITEMS",
+      "type": "ITEM_TYPE_BAG_MENU",
+      "fieldUseFunc": "FieldUseFunc_OakStopsYou",
+      "battleUsage": 0,
+      "battleUseFunc": "NULL",
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "????????",
@@ -5624,23 +6337,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
-    },
-    {
-      "english": "????????",
-      "itemId": "ITEM_NONE",
-      "price": 0,
-      "holdEffect": "HOLD_EFFECT_NONE",
-      "holdEffectParam": 0,
-      "description_english": "?????",
-      "importance": 0,
-      "registrability": 0,
-      "pocket": "POCKET_ITEMS",
-      "type": "ITEM_TYPE_BAG_MENU",
-      "fieldUseFunc": "FieldUseFunc_OakStopsYou",
-      "battleUsage": 0,
-      "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "?????",
+      "french": "????????"
     },
     {
       "english": "OAK'S PARCEL",
@@ -5656,10 +6355,12 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "A parcel to be delivered to PROF.\\nOAK from VIRIDIAN CITY's POKéMON\\nMART.",
+      "french": "OAK'S PARCEL"
     },
     {
-      "english": "POK\u00e9 FLUTE",
+      "english": "POKé FLUTE",
       "itemId": "ITEM_POKE_FLUTE",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -5672,7 +6373,9 @@
       "fieldUseFunc": "FieldUseFunc_PokeFlute",
       "battleUsage": 2,
       "battleUseFunc": "BattleUseFunc_PokeFlute",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "A flute that is said to instantly\\nawaken any POKéMON. It has a\\nlovely tone.",
+      "french": "POKé FLUTE"
     },
     {
       "english": "SECRET KEY",
@@ -5688,7 +6391,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "The key to CINNABAR ISLAND GYM's\\nfront door. It is colored red and\\ndecorated.",
+      "french": "SECRET KEY"
     },
     {
       "english": "BIKE VOUCHER",
@@ -5704,7 +6409,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Take this voucher to the BIKE SHOP\\nin CERULEAN CITY and exchange it\\nfor a bicycle.",
+      "french": "BIKE VOUCHER"
     },
     {
       "english": "GOLD TEETH",
@@ -5720,7 +6427,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "A set of false teeth lost by the\\nSAFARI ZONE'S WARDEN. It makes his\\nsmile sparkle.",
+      "french": "GOLD TEETH"
     },
     {
       "english": "OLD AMBER",
@@ -5736,7 +6445,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Un morceau d'ambre contenant\\nl'ADN d'un ancien Pokémon.\\nIl est clair avec une teinte rouge.",
+      "french": "Vieil Ambre"
     },
     {
       "english": "CARD KEY",
@@ -5752,7 +6463,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une carte magnétique pouvant\\nouvrir les portes du siège de la\\nSylphe SARL à Safrania.",
+      "french": "Carte Magnétique"
     },
     {
       "english": "LIFT KEY",
@@ -5768,7 +6481,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une clé pour faire fonctionner\\nl'ascenseur du Repaire\\nde la Team Rocket.",
+      "french": "Clé Ascenseur"
     },
     {
       "english": "HELIX FOSSIL",
@@ -5784,7 +6499,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Un fossile d'un Pokémon aquatique\\nvenant des temps anciens.\\nCe serait un morceau de coquille.",
+      "french": "Nautile"
     },
     {
       "english": "DOME FOSSIL",
@@ -5800,7 +6517,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Un fossile d'un Pokémon aquatique\\nvenant des temps anciens.\\nCe serait un morceau de coquille.",
+      "french": "Fossile Dôme"
     },
     {
       "english": "SILPH SCOPE",
@@ -5816,7 +6535,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Un appareil pour voir\\nles Pokémon invisibles.\\nIl est fabriqué par la Sylphe SARL.",
+      "french": "Scope Sylphe"
     },
     {
       "english": "BICYCLE",
@@ -5832,7 +6553,9 @@
       "fieldUseFunc": "FieldUseFunc_Bike",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une bicyclette pliable permettant\\nde se déplacer plus rapidement\\nqu'avec les chaussures.",
+      "french": "Bicyclette"
     },
     {
       "english": "TOWN MAP",
@@ -5848,7 +6571,9 @@
       "fieldUseFunc": "FieldUseFunc_TownMap",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une carte très pratique pouvant\\nêtre lue n'importe quand.\\nElle indique votre position actuelle.",
+      "french": "Carte"
     },
     {
       "english": "VS SEEKER",
@@ -5864,7 +6589,9 @@
       "fieldUseFunc": "FieldUseFunc_VsSeeker",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Un appareil indiquant les\\nDresseurs voulant se battre. Les\\nbatteries se chargent en marchant.",
+      "french": "Cherch'Combat"
     },
     {
       "english": "FAME CHECKER",
@@ -5880,7 +6607,9 @@
       "fieldUseFunc": "FieldUseFunc_FameChecker",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Un dispositif qui vous permet de\\nvous souvenir de ce que vous avez\\nentendu et vu de personnes célèbres.",
+      "french": "Memorydex"
     },
     {
       "english": "TM CASE",
@@ -5896,7 +6625,9 @@
       "fieldUseFunc": "FieldUseFunc_TmCase",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une boîte pour ranger\\nles CT et CS.",
+      "french": "Boîte CT"
     },
     {
       "english": "BERRY POUCH",
@@ -5912,7 +6643,9 @@
       "fieldUseFunc": "FieldUseFunc_BerryPouch",
       "battleUsage": 3,
       "battleUseFunc": "BattleUseFunc_BerryPouch",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Un petit sac pour transporter\\nles Baies.",
+      "french": "Sac à Baies"
     },
     {
       "english": "TEACHY TV",
@@ -5928,7 +6661,9 @@
       "fieldUseFunc": "FieldUseFunc_TeachyTv",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Un petit téléviseur montrant un\\nprogramme utile\\naux Dresseurs débutants.",
+      "french": "TV ABC"
     },
     {
       "english": "TRI-PASS",
@@ -5944,7 +6679,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Un passe pour accéder aux\\nILES 1, 2 et 3. On peut voir\\nun petit dessin de ces îles.",
+      "french": "Tri-Passe"
     },
     {
       "english": "RAINBOW PASS",
@@ -5960,7 +6697,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Un passe pour le ferry entre\\nCARMIN SUR MER et les ILES SEVII.\\nIl y a un dessin d'arc-en-ciel.",
+      "french": "Passe Prisme"
     },
     {
       "english": "TEA",
@@ -5976,7 +6715,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Un thé aromatisé préparé par\\nune vieille femme. Une tasse\\npeut étancher toutes les soifs.",
+      "french": "Thé"
     },
     {
       "english": "MYSTICTICKET",
@@ -5992,7 +6733,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Le ticket requis pour aller\\nau ROC NOMBRI.\\nIl brille d'une lumière mystique.",
+      "french": "Ticketmystik"
     },
     {
       "english": "AURORATICKET",
@@ -6008,7 +6751,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Le ticket requis pour aller sur\\nl'ILE AURORE.\\nIl brille d'une belle lumière.",
+      "french": "Ticketaurora"
     },
     {
       "english": "POWDER JAR",
@@ -6024,7 +6769,9 @@
       "fieldUseFunc": "FieldUseFunc_PowderJar",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Un pot pour conserver la\\nPOUDRE BAIE faite grâce\\nau BROYEUR DE BAIE.",
+      "french": "Pot Poudre"
     },
     {
       "english": "RUBY",
@@ -6040,7 +6787,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une pierre précieuse d'une rare\\nbeauté et aux reflets rouges.\\nElle symbolise la passion.",
+      "french": "Rubis"
     },
     {
       "english": "SAPPHIRE",
@@ -6056,7 +6805,9 @@
       "fieldUseFunc": "FieldUseFunc_OakStopsYou",
       "battleUsage": 0,
       "battleUseFunc": "NULL",
-      "secondaryId": 0
+      "secondaryId": 0,
+      "description_french": "Une pierre précieuse d'une rare\\nbeauté et aux reflets bleus.\\nElle symbolise l'honnêteté.",
+      "french": "Saphir"
     }
   ]
 }

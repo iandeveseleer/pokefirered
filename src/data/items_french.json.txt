@@ -4,14 +4,14 @@
 extern const u8 gMoveDescription_{{ item.moveId }}[];
 ## endif
 {% if item.itemId != "ITEM_NONE" %}
-const u8 gItemDescription_{{ item.itemId }}[] = _("{{ item.description_english }}");
+const u8 gItemDescription_{{ item.itemId }}[] = _("{{ item.description_french }}");
 {% endif %}
 ## endfor
 const u8 gItemDescription_ITEM_NONE[] = _("?????");
 
 const struct Item gItems[] = {
     {% for item in items %}{
-        .name = _("{{ item.english }}"),
+        .name = _("{{ item.french }}"),
         .itemId = {{ item.itemId }},
         .price = {{ item.price }},
         .holdEffect = {{ item.holdEffect }},

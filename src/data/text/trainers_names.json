@@ -1,537 +1,539 @@
-[
-    {
-        "trainerClassId": "NONE",
-        "english": "{PKMN} TRAINER",
-        "french": "Dresseur {PKMN}"
-    },
-    {
-        "trainerClassId": "PKMN_TRAINER_UNUSED",
-        "english": "{PKMN} TRAINER",
-        "french": "Dresseur {PKMN}"
-    },
-    {
-        "trainerClassId": "AQUA_LEADER",
-        "english": "AQUA LEADER",
-        "french": "Boss Aqua"
-    },
-    {
-        "trainerClassId": "TEAM_AQUA",
-        "english": "TEAM AQUA",
-        "french": "Team Aqua"
-    },
-    {
-        "trainerClassId": "RS_AROMA_LADY",
-        "english": "AROMA LADY",
-        "french": "AROMA LADY"
-    },
-    {
-        "trainerClassId": "RS_RUIN_MANIAC",
-        "english": "RUIN MANIAC",
-        "french": "RUIN MANIAC"
-    },
-    {
-        "trainerClassId": "INTERVIEWER",
-        "english": "INTERVIEWER",
-        "french": "INTERVIEWER"
-    },
-    {
-        "trainerClassId": "RS_TUBER_F",
-        "english": "TUBER",
-        "french": "TUBER"
-    },
-    {
-        "trainerClassId": "RS_TUBER_M",
-        "english": "TUBER",
-        "french": "TUBER"
-    },
-    {
-        "trainerClassId": "RS_COOLTRAINER",
-        "english": "COOLTRAINER",
-        "french": "COOLTRAINER"
-    },
-    {
-        "trainerClassId": "HEX_MANIAC",
-        "english": "HEX MANIAC",
-        "french": "HEX MANIAC"
-    },
-    {
-        "trainerClassId": "RS_LADY",
-        "english": "LADY",
-        "french": "LADY"
-    },
-    {
-        "trainerClassId": "RS_BEAUTY",
-        "english": "BEAUTY",
-        "french": "BEAUTY"
-    },
-    {
-        "trainerClassId": "RICH_BOY",
-        "english": "RICH BOY",
-        "french": "RICH BOY"
-    },
-    {
-        "trainerClassId": "RS_POKEMANIAC",
-        "english": "POK\u00e9MANIAC",
-        "french": "POK\u00e9MANIAC"
-    },
-    {
-        "trainerClassId": "RS_SWIMMER_M",
-        "english": "SWIMMER\u2642",
-        "french": "SWIMMER\u2642"
-    },
-    {
-        "trainerClassId": "RS_BLACK_BELT",
-        "english": "BLACK BELT",
-        "french": "BLACK BELT"
-    },
-    {
-        "trainerClassId": "GUITARIST",
-        "english": "GUITARIST",
-        "french": "GUITARIST"
-    },
-    {
-        "trainerClassId": "KINDLER",
-        "english": "KINDLER",
-        "french": "KINDLER"
-    },
-    {
-        "trainerClassId": "RS_CAMPER",
-        "english": "CAMPER",
-        "french": "CAMPER"
-    },
-    {
-        "trainerClassId": "BUG_MANIAC",
-        "english": "BUG MANIAC",
-        "french": "BUG MANIAC"
-    },
-    {
-        "trainerClassId": "RS_PSYCHIC",
-        "english": "PSYCHIC",
-        "french": "PSYCHIC"
-    },
-    {
-        "trainerClassId": "RS_GENTLEMAN",
-        "english": "GENTLEMAN",
-        "french": "GENTLEMAN"
-    },
-    {
-        "trainerClassId": "RS_ELITE_FOUR",
-        "english": "ELITE FOUR",
-        "french": "Conseil des 4"
-    },
-    {
-        "trainerClassId": "RS_LEADER",
-        "english": "LEADER",
-        "french": "LEADER"
-    },
-    {
-        "trainerClassId": "SCHOOL_KID",
-        "english": "SCHOOL KID",
-        "french": "SCHOOL KID"
-    },
-    {
-        "trainerClassId": "SR_AND_JR",
-        "english": "SR. AND JR.",
-        "french": "SR. AND JR."
-    },
-    {
-        "trainerClassId": "POKEFAN",
-        "english": "POK\u00e9FAN",
-        "french": "POK\u00e9FAN"
-    },
-    {
-        "trainerClassId": "EXPERT",
-        "english": "EXPERT",
-        "french": "EXPERT"
-    },
-    {
-        "trainerClassId": "RS_YOUNGSTER",
-        "english": "YOUNGSTER",
-        "french": "YOUNGSTER"
-    },
-    {
-        "trainerClassId": "RS_CHAMPION",
-        "english": "CHAMPION",
-        "french": "CHAMPION"
-    },
-    {
-        "trainerClassId": "RS_FISHERMAN",
-        "english": "FISHERMAN",
-        "french": "FISHERMAN"
-    },
-    {
-        "trainerClassId": "TRIATHLETE",
-        "english": "TRIATHLETE",
-        "french": "TRIATHLETE"
-    },
-    {
-        "trainerClassId": "DRAGON_TAMER",
-        "english": "DRAGON TAMER",
-        "french": "DRAGON TAMER"
-    },
-    {
-        "trainerClassId": "RS_BIRD_KEEPER",
-        "english": "BIRD KEEPER",
-        "french": "BIRD KEEPER"
-    },
-    {
-        "trainerClassId": "NINJA_BOY",
-        "english": "NINJA BOY",
-        "french": "NINJA BOY"
-    },
-    {
-        "trainerClassId": "BATTLE_GIRL",
-        "english": "BATTLE GIRL",
-        "french": "BATTLE GIRL"
-    },
-    {
-        "trainerClassId": "PARASOL_LADY",
-        "english": "PARASOL LADY",
-        "french": "PARASOL LADY"
-    },
-    {
-        "trainerClassId": "RS_SWIMMER_F",
-        "english": "SWIMMER\u2640",
-        "french": "SWIMMER\u2640"
-    },
-    {
-        "trainerClassId": "RS_PICNICKER",
-        "english": "PICNICKER",
-        "french": "PICNICKER"
-    },
-    {
-        "trainerClassId": "RS_TWINS",
-        "english": "TWINS",
-        "french": "TWINS"
-    },
-    {
-        "trainerClassId": "RS_SAILOR",
-        "english": "SAILOR",
-        "french": "SAILOR"
-    },
-    {
-        "trainerClassId": "BOARDER",
-        "english": "BOARDER",
-        "french": "BOARDER"
-    },
-    {
-        "trainerClassId": "COLLECTOR",
-        "english": "COLLECTOR",
-        "french": "COLLECTOR"
-    },
-    {
-        "trainerClassId": "PKMN_TRAINER",
-        "english": "{PKMN} TRAINER",
-        "french": "{PKMN} TRAINER"
-    },
-    {
-        "trainerClassId": "RS_PKMN_BREEDER",
-        "english": "{PKMN} BREEDER",
-        "french": "{PKMN} BREEDER"
-    },
-    {
-        "trainerClassId": "RS_PKMN_RANGER",
-        "english": "{PKMN} RANGER",
-        "french": "{PKMN} RANGER"
-    },
-    {
-        "trainerClassId": "MAGMA_LEADER",
-        "english": "MAGMA LEADER",
-        "french": "MAGMA LEADER"
-    },
-    {
-        "trainerClassId": "TEAM_MAGMA",
-        "english": "TEAM MAGMA",
-        "french": "TEAM MAGMA"
-    },
-    {
-        "trainerClassId": "RS_LASS",
-        "english": "LASS",
-        "french": "LASS"
-    },
-    {
-        "trainerClassId": "RS_BUG_CATCHER",
-        "english": "BUG CATCHER",
-        "french": "BUG CATCHER"
-    },
-    {
-        "trainerClassId": "RS_HIKER",
-        "english": "HIKER",
-        "french": "HIKER"
-    },
-    {
-        "trainerClassId": "RS_YOUNG_COUPLE",
-        "english": "YOUNG COUPLE",
-        "french": "YOUNG COUPLE"
-    },
-    {
-        "trainerClassId": "OLD_COUPLE",
-        "english": "OLD COUPLE",
-        "french": "OLD COUPLE"
-    },
-    {
-        "trainerClassId": "RS_SIS_AND_BRO",
-        "english": "SIS AND BRO",
-        "french": "SIS AND BRO"
-    },
-    {
-        "trainerClassId": "AQUA_ADMIN",
-        "english": "AQUA ADMIN",
-        "french": "AQUA ADMIN"
-    },
-    {
-        "trainerClassId": "MAGMA_ADMIN",
-        "english": "MAGMA ADMIN",
-        "french": "MAGMA ADMIN"
-    },
-    {
-        "trainerClassId": "YOUNGSTER",
-        "english": "YOUNGSTER",
-        "french": "YOUNGSTER"
-    },
-    {
-        "trainerClassId": "BUG_CATCHER",
-        "english": "BUG CATCHER",
-        "french": "BUG CATCHER"
-    },
-    {
-        "trainerClassId": "LASS",
-        "english": "LASS",
-        "french": "LASS"
-    },
-    {
-        "trainerClassId": "SAILOR",
-        "english": "SAILOR",
-        "french": "SAILOR"
-    },
-    {
-        "trainerClassId": "CAMPER",
-        "english": "CAMPER",
-        "french": "CAMPER"
-    },
-    {
-        "trainerClassId": "PICNICKER",
-        "english": "PICNICKER",
-        "french": "PICNICKER"
-    },
-    {
-        "trainerClassId": "POKEMANIAC",
-        "english": "POK\u00e9MANIAC",
-        "french": "POK\u00e9MANIAC"
-    },
-    {
-        "trainerClassId": "SUPER_NERD",
-        "english": "SUPER NERD",
-        "french": "SUPER NERD"
-    },
-    {
-        "trainerClassId": "HIKER",
-        "english": "HIKER",
-        "french": "HIKER"
-    },
-    {
-        "trainerClassId": "BIKER",
-        "english": "BIKER",
-        "french": "BIKER"
-    },
-    {
-        "trainerClassId": "BURGLAR",
-        "english": "BURGLAR",
-        "french": "BURGLAR"
-    },
-    {
-        "trainerClassId": "ENGINEER",
-        "english": "ENGINEER",
-        "french": "ENGINEER"
-    },
-    {
-        "trainerClassId": "FISHERMAN",
-        "english": "FISHERMAN",
-        "french": "FISHERMAN"
-    },
-    {
-        "trainerClassId": "SWIMMER_M",
-        "english": "SWIMMER\u2642",
-        "french": "SWIMMER\u2642"
-    },
-    {
-        "trainerClassId": "CUE_BALL",
-        "english": "CUE BALL",
-        "french": "CUE BALL"
-    },
-    {
-        "trainerClassId": "GAMER",
-        "english": "GAMER",
-        "french": "GAMER"
-    },
-    {
-        "trainerClassId": "BEAUTY",
-        "english": "BEAUTY",
-        "french": "BEAUTY"
-    },
-    {
-        "trainerClassId": "SWIMMER_F",
-        "english": "SWIMMER\u2640",
-        "french": "SWIMMER\u2640"
-    },
-    {
-        "trainerClassId": "PSYCHIC",
-        "english": "PSYCHIC",
-        "french": "PSYCHIC"
-    },
-    {
-        "trainerClassId": "ROCKER",
-        "english": "ROCKER",
-        "french": "ROCKER"
-    },
-    {
-        "trainerClassId": "JUGGLER",
-        "english": "JUGGLER",
-        "french": "JUGGLER"
-    },
-    {
-        "trainerClassId": "TAMER",
-        "english": "TAMER",
-        "french": "TAMER"
-    },
-    {
-        "trainerClassId": "BIRD_KEEPER",
-        "english": "BIRD KEEPER",
-        "french": "BIRD KEEPER"
-    },
-    {
-        "trainerClassId": "BLACK_BELT",
-        "english": "BLACK BELT",
-        "french": "BLACK BELT"
-    },
-    {
-        "trainerClassId": "RIVAL_EARLY",
-        "english": "RIVAL",
-        "french": "RIVAL"
-    },
-    {
-        "trainerClassId": "SCIENTIST",
-        "english": "SCIENTIST",
-        "french": "SCIENTIST"
-    },
-    {
-        "trainerClassId": "BOSS",
-        "english": "BOSS",
-        "french": "BOSS"
-    },
-    {
-        "trainerClassId": "LEADER",
-        "english": "LEADER",
-        "french": "Champion d'Arène"
-    },
-    {
-        "trainerClassId": "TEAM_ROCKET",
-        "english": "TEAM ROCKET",
-        "french": "Team Rocket"
-    },
-    {
-        "trainerClassId": "COOLTRAINER",
-        "english": "COOLTRAINER",
-        "french": "COOLTRAINER"
-    },
-    {
-        "trainerClassId": "ELITE_FOUR",
-        "english": "ELITE FOUR",
-        "french": "ELITE FOUR"
-    },
-    {
-        "trainerClassId": "GENTLEMAN",
-        "english": "GENTLEMAN",
-        "french": "GENTLEMAN"
-    },
-    {
-        "trainerClassId": "RIVAL_LATE",
-        "english": "RIVAL",
-        "french": "RIVAL"
-    },
-    {
-        "trainerClassId": "CHAMPION",
-        "english": "CHAMPION",
-        "french": "Champion"
-    },
-    {
-        "trainerClassId": "CHANNELER",
-        "english": "CHANNELER",
-        "french": "CHANNELER"
-    },
-    {
-        "trainerClassId": "TWINS",
-        "english": "TWINS",
-        "french": "TWINS"
-    },
-    {
-        "trainerClassId": "COOL_COUPLE",
-        "english": "COOL COUPLE",
-        "french": "COOL COUPLE"
-    },
-    {
-        "trainerClassId": "YOUNG_COUPLE",
-        "english": "YOUNG COUPLE",
-        "french": "YOUNG COUPLE"
-    },
-    {
-        "trainerClassId": "CRUSH_KIN",
-        "english": "CRUSH KIN",
-        "french": "CRUSH KIN"
-    },
-    {
-        "trainerClassId": "SIS_AND_BRO",
-        "english": "SIS AND BRO",
-        "french": "SIS AND BRO"
-    },
-    {
-        "trainerClassId": "PKMN_PROF",
-        "english": "{PKMN} PROF.",
-        "french": "{PKMN} PROF."
-    },
-    {
-        "trainerClassId": "PLAYER",
-        "english": "PLAYER",
-        "french": "PLAYER"
-    },
-    {
-        "trainerClassId": "CRUSH_GIRL",
-        "english": "CRUSH GIRL",
-        "french": "CRUSH GIRL"
-    },
-    {
-        "trainerClassId": "TUBER",
-        "english": "TUBER",
-        "french": "TUBER"
-    },
-    {
-        "trainerClassId": "PKMN_BREEDER",
-        "english": "{PKMN} BREEDER",
-        "french": "{PKMN} BREEDER"
-    },
-    {
-        "trainerClassId": "PKMN_RANGER",
-        "english": "{PKMN} RANGER",
-        "french": "{PKMN} RANGER"
-    },
-    {
-        "trainerClassId": "AROMA_LADY",
-        "english": "AROMA LADY",
-        "french": "AROMA LADY"
-    },
-    {
-        "trainerClassId": "RUIN_MANIAC",
-        "english": "RUIN MANIAC",
-        "french": "RUIN MANIAC"
-    },
-    {
-        "trainerClassId": "LADY",
-        "english": "LADY",
-        "french": "LADY"
-    },
-    {
-        "trainerClassId": "PAINTER",
-        "english": "PAINTER",
-        "french": "PAINTER"
-    }
-]
+{
+    "names": [
+        {
+            "trainerClassId": "NONE",
+            "english": "{PKMN} TRAINER",
+            "french": "Dresseur {PKMN}"
+        },
+        {
+            "trainerClassId": "PKMN_TRAINER_UNUSED",
+            "english": "{PKMN} TRAINER",
+            "french": "Dresseur {PKMN}"
+        },
+        {
+            "trainerClassId": "AQUA_LEADER",
+            "english": "AQUA LEADER",
+            "french": "Boss Aqua"
+        },
+        {
+            "trainerClassId": "TEAM_AQUA",
+            "english": "TEAM AQUA",
+            "french": "Team Aqua"
+        },
+        {
+            "trainerClassId": "RS_AROMA_LADY",
+            "english": "AROMA LADY",
+            "french": "AROMA LADY"
+        },
+        {
+            "trainerClassId": "RS_RUIN_MANIAC",
+            "english": "RUIN MANIAC",
+            "french": "RUIN MANIAC"
+        },
+        {
+            "trainerClassId": "INTERVIEWER",
+            "english": "INTERVIEWER",
+            "french": "INTERVIEWER"
+        },
+        {
+            "trainerClassId": "RS_TUBER_F",
+            "english": "TUBER",
+            "french": "TUBER"
+        },
+        {
+            "trainerClassId": "RS_TUBER_M",
+            "english": "TUBER",
+            "french": "TUBER"
+        },
+        {
+            "trainerClassId": "RS_COOLTRAINER",
+            "english": "COOLTRAINER",
+            "french": "COOLTRAINER"
+        },
+        {
+            "trainerClassId": "HEX_MANIAC",
+            "english": "HEX MANIAC",
+            "french": "HEX MANIAC"
+        },
+        {
+            "trainerClassId": "RS_LADY",
+            "english": "LADY",
+            "french": "LADY"
+        },
+        {
+            "trainerClassId": "RS_BEAUTY",
+            "english": "BEAUTY",
+            "french": "BEAUTY"
+        },
+        {
+            "trainerClassId": "RICH_BOY",
+            "english": "RICH BOY",
+            "french": "RICH BOY"
+        },
+        {
+            "trainerClassId": "RS_POKEMANIAC",
+            "english": "POK\u00e9MANIAC",
+            "french": "POK\u00e9MANIAC"
+        },
+        {
+            "trainerClassId": "RS_SWIMMER_M",
+            "english": "SWIMMER\u2642",
+            "french": "SWIMMER\u2642"
+        },
+        {
+            "trainerClassId": "RS_BLACK_BELT",
+            "english": "BLACK BELT",
+            "french": "BLACK BELT"
+        },
+        {
+            "trainerClassId": "GUITARIST",
+            "english": "GUITARIST",
+            "french": "GUITARIST"
+        },
+        {
+            "trainerClassId": "KINDLER",
+            "english": "KINDLER",
+            "french": "KINDLER"
+        },
+        {
+            "trainerClassId": "RS_CAMPER",
+            "english": "CAMPER",
+            "french": "CAMPER"
+        },
+        {
+            "trainerClassId": "BUG_MANIAC",
+            "english": "BUG MANIAC",
+            "french": "BUG MANIAC"
+        },
+        {
+            "trainerClassId": "RS_PSYCHIC",
+            "english": "PSYCHIC",
+            "french": "PSYCHIC"
+        },
+        {
+            "trainerClassId": "RS_GENTLEMAN",
+            "english": "GENTLEMAN",
+            "french": "GENTLEMAN"
+        },
+        {
+            "trainerClassId": "RS_ELITE_FOUR",
+            "english": "ELITE FOUR",
+            "french": "Conseil des 4"
+        },
+        {
+            "trainerClassId": "RS_LEADER",
+            "english": "LEADER",
+            "french": "LEADER"
+        },
+        {
+            "trainerClassId": "SCHOOL_KID",
+            "english": "SCHOOL KID",
+            "french": "SCHOOL KID"
+        },
+        {
+            "trainerClassId": "SR_AND_JR",
+            "english": "SR. AND JR.",
+            "french": "SR. AND JR."
+        },
+        {
+            "trainerClassId": "POKEFAN",
+            "english": "POK\u00e9FAN",
+            "french": "POK\u00e9FAN"
+        },
+        {
+            "trainerClassId": "EXPERT",
+            "english": "EXPERT",
+            "french": "EXPERT"
+        },
+        {
+            "trainerClassId": "RS_YOUNGSTER",
+            "english": "YOUNGSTER",
+            "french": "YOUNGSTER"
+        },
+        {
+            "trainerClassId": "RS_CHAMPION",
+            "english": "CHAMPION",
+            "french": "CHAMPION"
+        },
+        {
+            "trainerClassId": "RS_FISHERMAN",
+            "english": "FISHERMAN",
+            "french": "FISHERMAN"
+        },
+        {
+            "trainerClassId": "TRIATHLETE",
+            "english": "TRIATHLETE",
+            "french": "TRIATHLETE"
+        },
+        {
+            "trainerClassId": "DRAGON_TAMER",
+            "english": "DRAGON TAMER",
+            "french": "DRAGON TAMER"
+        },
+        {
+            "trainerClassId": "RS_BIRD_KEEPER",
+            "english": "BIRD KEEPER",
+            "french": "BIRD KEEPER"
+        },
+        {
+            "trainerClassId": "NINJA_BOY",
+            "english": "NINJA BOY",
+            "french": "NINJA BOY"
+        },
+        {
+            "trainerClassId": "BATTLE_GIRL",
+            "english": "BATTLE GIRL",
+            "french": "BATTLE GIRL"
+        },
+        {
+            "trainerClassId": "PARASOL_LADY",
+            "english": "PARASOL LADY",
+            "french": "PARASOL LADY"
+        },
+        {
+            "trainerClassId": "RS_SWIMMER_F",
+            "english": "SWIMMER\u2640",
+            "french": "SWIMMER\u2640"
+        },
+        {
+            "trainerClassId": "RS_PICNICKER",
+            "english": "PICNICKER",
+            "french": "PICNICKER"
+        },
+        {
+            "trainerClassId": "RS_TWINS",
+            "english": "TWINS",
+            "french": "TWINS"
+        },
+        {
+            "trainerClassId": "RS_SAILOR",
+            "english": "SAILOR",
+            "french": "SAILOR"
+        },
+        {
+            "trainerClassId": "BOARDER",
+            "english": "BOARDER",
+            "french": "BOARDER"
+        },
+        {
+            "trainerClassId": "COLLECTOR",
+            "english": "COLLECTOR",
+            "french": "COLLECTOR"
+        },
+        {
+            "trainerClassId": "PKMN_TRAINER",
+            "english": "{PKMN} TRAINER",
+            "french": "{PKMN} TRAINER"
+        },
+        {
+            "trainerClassId": "RS_PKMN_BREEDER",
+            "english": "{PKMN} BREEDER",
+            "french": "{PKMN} BREEDER"
+        },
+        {
+            "trainerClassId": "RS_PKMN_RANGER",
+            "english": "{PKMN} RANGER",
+            "french": "{PKMN} RANGER"
+        },
+        {
+            "trainerClassId": "MAGMA_LEADER",
+            "english": "MAGMA LEADER",
+            "french": "MAGMA LEADER"
+        },
+        {
+            "trainerClassId": "TEAM_MAGMA",
+            "english": "TEAM MAGMA",
+            "french": "TEAM MAGMA"
+        },
+        {
+            "trainerClassId": "RS_LASS",
+            "english": "LASS",
+            "french": "LASS"
+        },
+        {
+            "trainerClassId": "RS_BUG_CATCHER",
+            "english": "BUG CATCHER",
+            "french": "BUG CATCHER"
+        },
+        {
+            "trainerClassId": "RS_HIKER",
+            "english": "HIKER",
+            "french": "HIKER"
+        },
+        {
+            "trainerClassId": "RS_YOUNG_COUPLE",
+            "english": "YOUNG COUPLE",
+            "french": "YOUNG COUPLE"
+        },
+        {
+            "trainerClassId": "OLD_COUPLE",
+            "english": "OLD COUPLE",
+            "french": "OLD COUPLE"
+        },
+        {
+            "trainerClassId": "RS_SIS_AND_BRO",
+            "english": "SIS AND BRO",
+            "french": "SIS AND BRO"
+        },
+        {
+            "trainerClassId": "AQUA_ADMIN",
+            "english": "AQUA ADMIN",
+            "french": "AQUA ADMIN"
+        },
+        {
+            "trainerClassId": "MAGMA_ADMIN",
+            "english": "MAGMA ADMIN",
+            "french": "MAGMA ADMIN"
+        },
+        {
+            "trainerClassId": "YOUNGSTER",
+            "english": "YOUNGSTER",
+            "french": "YOUNGSTER"
+        },
+        {
+            "trainerClassId": "BUG_CATCHER",
+            "english": "BUG CATCHER",
+            "french": "BUG CATCHER"
+        },
+        {
+            "trainerClassId": "LASS",
+            "english": "LASS",
+            "french": "LASS"
+        },
+        {
+            "trainerClassId": "SAILOR",
+            "english": "SAILOR",
+            "french": "SAILOR"
+        },
+        {
+            "trainerClassId": "CAMPER",
+            "english": "CAMPER",
+            "french": "CAMPER"
+        },
+        {
+            "trainerClassId": "PICNICKER",
+            "english": "PICNICKER",
+            "french": "PICNICKER"
+        },
+        {
+            "trainerClassId": "POKEMANIAC",
+            "english": "POK\u00e9MANIAC",
+            "french": "POK\u00e9MANIAC"
+        },
+        {
+            "trainerClassId": "SUPER_NERD",
+            "english": "SUPER NERD",
+            "french": "SUPER NERD"
+        },
+        {
+            "trainerClassId": "HIKER",
+            "english": "HIKER",
+            "french": "HIKER"
+        },
+        {
+            "trainerClassId": "BIKER",
+            "english": "BIKER",
+            "french": "BIKER"
+        },
+        {
+            "trainerClassId": "BURGLAR",
+            "english": "BURGLAR",
+            "french": "BURGLAR"
+        },
+        {
+            "trainerClassId": "ENGINEER",
+            "english": "ENGINEER",
+            "french": "ENGINEER"
+        },
+        {
+            "trainerClassId": "FISHERMAN",
+            "english": "FISHERMAN",
+            "french": "FISHERMAN"
+        },
+        {
+            "trainerClassId": "SWIMMER_M",
+            "english": "SWIMMER\u2642",
+            "french": "SWIMMER\u2642"
+        },
+        {
+            "trainerClassId": "CUE_BALL",
+            "english": "CUE BALL",
+            "french": "CUE BALL"
+        },
+        {
+            "trainerClassId": "GAMER",
+            "english": "GAMER",
+            "french": "GAMER"
+        },
+        {
+            "trainerClassId": "BEAUTY",
+            "english": "BEAUTY",
+            "french": "BEAUTY"
+        },
+        {
+            "trainerClassId": "SWIMMER_F",
+            "english": "SWIMMER\u2640",
+            "french": "SWIMMER\u2640"
+        },
+        {
+            "trainerClassId": "PSYCHIC",
+            "english": "PSYCHIC",
+            "french": "PSYCHIC"
+        },
+        {
+            "trainerClassId": "ROCKER",
+            "english": "ROCKER",
+            "french": "ROCKER"
+        },
+        {
+            "trainerClassId": "JUGGLER",
+            "english": "JUGGLER",
+            "french": "JUGGLER"
+        },
+        {
+            "trainerClassId": "TAMER",
+            "english": "TAMER",
+            "french": "TAMER"
+        },
+        {
+            "trainerClassId": "BIRD_KEEPER",
+            "english": "BIRD KEEPER",
+            "french": "BIRD KEEPER"
+        },
+        {
+            "trainerClassId": "BLACK_BELT",
+            "english": "BLACK BELT",
+            "french": "BLACK BELT"
+        },
+        {
+            "trainerClassId": "RIVAL_EARLY",
+            "english": "RIVAL",
+            "french": "RIVAL"
+        },
+        {
+            "trainerClassId": "SCIENTIST",
+            "english": "SCIENTIST",
+            "french": "SCIENTIST"
+        },
+        {
+            "trainerClassId": "BOSS",
+            "english": "BOSS",
+            "french": "BOSS"
+        },
+        {
+            "trainerClassId": "LEADER",
+            "english": "LEADER",
+            "french": "Champion d'Arène"
+        },
+        {
+            "trainerClassId": "TEAM_ROCKET",
+            "english": "TEAM ROCKET",
+            "french": "Team Rocket"
+        },
+        {
+            "trainerClassId": "COOLTRAINER",
+            "english": "COOLTRAINER",
+            "french": "COOLTRAINER"
+        },
+        {
+            "trainerClassId": "ELITE_FOUR",
+            "english": "ELITE FOUR",
+            "french": "ELITE FOUR"
+        },
+        {
+            "trainerClassId": "GENTLEMAN",
+            "english": "GENTLEMAN",
+            "french": "GENTLEMAN"
+        },
+        {
+            "trainerClassId": "RIVAL_LATE",
+            "english": "RIVAL",
+            "french": "RIVAL"
+        },
+        {
+            "trainerClassId": "CHAMPION",
+            "english": "CHAMPION",
+            "french": "Champion"
+        },
+        {
+            "trainerClassId": "CHANNELER",
+            "english": "CHANNELER",
+            "french": "CHANNELER"
+        },
+        {
+            "trainerClassId": "TWINS",
+            "english": "TWINS",
+            "french": "TWINS"
+        },
+        {
+            "trainerClassId": "COOL_COUPLE",
+            "english": "COOL COUPLE",
+            "french": "COOL COUPLE"
+        },
+        {
+            "trainerClassId": "YOUNG_COUPLE",
+            "english": "YOUNG COUPLE",
+            "french": "YOUNG COUPLE"
+        },
+        {
+            "trainerClassId": "CRUSH_KIN",
+            "english": "CRUSH KIN",
+            "french": "CRUSH KIN"
+        },
+        {
+            "trainerClassId": "SIS_AND_BRO",
+            "english": "SIS AND BRO",
+            "french": "SIS AND BRO"
+        },
+        {
+            "trainerClassId": "PKMN_PROF",
+            "english": "{PKMN} PROF.",
+            "french": "{PKMN} PROF."
+        },
+        {
+            "trainerClassId": "PLAYER",
+            "english": "PLAYER",
+            "french": "PLAYER"
+        },
+        {
+            "trainerClassId": "CRUSH_GIRL",
+            "english": "CRUSH GIRL",
+            "french": "CRUSH GIRL"
+        },
+        {
+            "trainerClassId": "TUBER",
+            "english": "TUBER",
+            "french": "TUBER"
+        },
+        {
+            "trainerClassId": "PKMN_BREEDER",
+            "english": "{PKMN} BREEDER",
+            "french": "{PKMN} BREEDER"
+        },
+        {
+            "trainerClassId": "PKMN_RANGER",
+            "english": "{PKMN} RANGER",
+            "french": "{PKMN} RANGER"
+        },
+        {
+            "trainerClassId": "AROMA_LADY",
+            "english": "AROMA LADY",
+            "french": "AROMA LADY"
+        },
+        {
+            "trainerClassId": "RUIN_MANIAC",
+            "english": "RUIN MANIAC",
+            "french": "RUIN MANIAC"
+        },
+        {
+            "trainerClassId": "LADY",
+            "english": "LADY",
+            "french": "LADY"
+        },
+        {
+            "trainerClassId": "PAINTER",
+            "english": "PAINTER",
+            "french": "PAINTER"
+        }
+    ]
+}

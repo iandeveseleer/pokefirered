@@ -1,0 +1,8 @@
+{{ doNotModifyHeader }}
+
+const u8 gTrainerClassNames[][13] = {
+    [TRAINER_CLASS_NONE] = _("{PKMN} TRAINER"),
+    {% for trainer in names %}
+    [TRAINER_CLASS_{{ trainer.trainerClassId }}] = _("{{ trainer.french }}"),
+    {% endfor %}
+};
